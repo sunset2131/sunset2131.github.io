@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r,ag as o}from"./chunks/framework.Co20b0ok.js";const u=JSON.parse('{"title":"的人的博客😭","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),n={name:"about.md"};function i(l,a,s,d,h,c){return r(),t("div",null,a[0]||(a[0]=[o("",4)]))}const m=e(n,[["render",i]]);export{u as __pageData,m as default};

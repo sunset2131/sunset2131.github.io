@@ -26,7 +26,7 @@ export const siteConfig: SiteConfig = {
   },
   toc: {
     enable: true,           // 显示文章右侧的目录 Display the table of contents on the right side of the post
-    depth: 2                // 目录最大标题深度，范围 1 到 3 Maximum heading depth to show in the table, from 1 to 3
+    depth: 3                // 目录最大标题深度，范围 1 到 3 Maximum heading depth to show in the table, from 1 to 3
   },
   favicon: [    // 为空数组时使用默认 favicon Leave this array empty to use the default favicon
     // {

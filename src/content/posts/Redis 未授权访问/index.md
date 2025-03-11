@@ -261,4 +261,11 @@ root@sunset-ubuntu:/tmp# ls -al | grep getshell.php
 ### SSTF - dict
 
 > https://www.cnblogs.com/CoLo/p/14214208.html#dict%E6%89%93redis%E4%B9%8B%E5%86%99webshell
->
+
+## 如何防护
+
+1. 更改密码
+    
+    编辑`/etc/redis.conf`文件，设置密码，`requirepass`后跟的就是密码
+    
+2. 更改端口，将默认端口`6379`改为其他的

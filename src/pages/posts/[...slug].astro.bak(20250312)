@@ -13,8 +13,6 @@ import PostMetadata from '../../components/PostMeta.astro'
 import ImageWrapper from '../../components/misc/ImageWrapper.astro'
 import { profileConfig, siteConfig } from '../../config'
 import { formatDateToYYYYMMDD } from '../../utils/date-utils'
-// 导入 giscus 评论
-import Comments from '@components/widget/Comments.svelte'
 
 export async function getStaticPaths() {
   const blogEntries = await getCollection('posts', ({ data }) => {
@@ -132,8 +130,5 @@ const jsonLd = {
             </div>}
         </a>
     </div>
-
-    <!--giscus 评论-->
-    <Comments client:only="svelte"></Comments>
 
 </MainGridLayout>

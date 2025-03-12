@@ -54,3 +54,15 @@ alert http any any <> any any (msg:"Chr1s：检测到冰蝎流量";\
 	 nocase; filestore; sid:66601001; rev:1;\
 )
 ```
+
+菜刀
+
+```bash
+alert http $EXTERNAL_NET any <> $HOME_NET 80 (msg:"检测到了疑似来自菜刀的攻击,请及时检查"; http.request_body;pcre:"/|40|eval|01 28|base64_decode/i";sid:561010;)
+```
+
+蚁剑
+
+```bash
+alert http any any <> any any (msg:"检测到蚁剑的流量特征";http.request_body;pcre:"/|40|ini_set|28 22 22 29|set_time_limit/i";sid:5001002;)
+```

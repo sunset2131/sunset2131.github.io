@@ -72,6 +72,10 @@ export const profileConfig: ProfileConfig = {
       name: 'GitHub',
       icon: 'fa6-brands:github',
       url: 'https://github.com/sunset2131',
+    },{
+      name: 'Discord',
+      icon: 'fa6-brands:discord',
+      url: 'https://discordapp.com/users/1041938172415844394',
     },
   ],
 }

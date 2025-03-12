@@ -7,6 +7,9 @@ import { i18n } from '../i18n/translation'
 import I18nKey from '../i18n/i18nKey'
 import Markdown from '@components/misc/Markdown.astro'
 
+// 导入 giscus 评论
+import Comments from '@components/widget/Comments.svelte'
+
 const aboutPost = await getEntry('spec', 'about')
 
 const { Content } = await aboutPost.render()
@@ -19,4 +22,7 @@ const { Content } = await aboutPost.render()
             </Markdown>
         </div>
     </div>
+    <div style="margin-top: 5%"></div>
+ <!--giscus 评论-->
+    <Comments client:only="svelte"></Comments>
 </MainGridLayout>

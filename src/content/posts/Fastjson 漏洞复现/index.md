@@ -2,6 +2,7 @@
 title: Fastjson 漏洞复现
 published: 2025-03-13 23:25:25
 tags: [漏洞复现,WEB安全]
+image: "./image.png"
 category: 安全
 draft: false
 ---

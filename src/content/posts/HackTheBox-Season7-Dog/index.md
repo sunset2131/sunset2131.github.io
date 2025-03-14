@@ -1,11 +1,11 @@
 ---
 title: HackTheBox-Season7-Dog
-published: 2025-03-10 12:28:24
+published: 2025-03-14 09:34:52
+image: "./image 36.png"
 tags: [HackTheBox]
 category: 靶机
 draft: false
 ---
-
 # Season7-Dog
 
 > https://app.hackthebox.com/machines/Dog | `esay`
@@ -75,11 +75,11 @@ Nmap done: 1 IP address (1 host up) scanned in 32.60 seconds
 
 访问HTTP并收集指纹
 
-![image.png](image.png)
+![image.png](image%2036.png)
 
 在主页`about`中发现域名`htb.dog`添加到hosts，并且能知道使用的是`Backdrop CMS`
 
-![image.png](image%201.png)
+![image.png](image%2037.png)
 
 ## git 泄露
 
@@ -89,7 +89,7 @@ Nmap done: 1 IP address (1 host up) scanned in 32.60 seconds
 ⚡ root@kali  ~/Desktop/test/Dog  githack http://dog.htb/.git
 ```
 
-![image.png](image%202.png)
+![image.png](image%2038.png)
 
 `setting.php`，知道配置文件在`./files/config_83dddd18e1ec67fd8ff5bba2453c7fb3/` ，并且能都得到一组账户?密码`root:BackDropJ2024DS2024`
 
@@ -111,19 +111,19 @@ $settings['hash_salt'] = 'aWFvPQNGZSz1DQ701dD4lC5v1hQW34NefHvyZUzlThQ';
 
 密码碰撞后可以通过`tiffany:BackDropJ2024DS2024` 进入后台
 
-![image.png](image%203.png)
+![image.png](image%2039.png)
 
 ## 后台利用
 
 在后台能发现文件上传点
 
-![image.png](image%204.png)
+![image.png](image%2040.png)
 
 但是提示未开启ZIP拓展导致无法使用
 
 在`?q=admin/installer/manual` 可以找到能使用的上传点
 
-![image.png](image%205.png)
+![image.png](image%2041.png)
 
 通过搜索引擎能找到利用 https://cve-diaries.com/en-technical-analysis-of-backdrop-cms-1-27-1-remote-command-execution-rce-d9e87b2c3cae
 
@@ -214,9 +214,9 @@ if __name__ == "__main__":
 
 运行后即可拿到后台文件
 
-![image.png](image%206.png)
+![image.png](image%2042.png)
 
-![image.png](image%207.png)
+![image.png](image%2043.png)
 
 填入反弹shell命令，即可获得`shell`
 

@@ -217,8 +217,8 @@ google_analytics:
 
 # Fill in your Baidu Analytics tracking ID to enable Baidu Analytics.  # 填写百度统计追踪 ID 以启用百度统计
 baidu_analytics:
-  enabled: false  # 关闭百度统计
-  id: 2e6da3c375c8a87f5b664cea6d4cb29c  # 百度统计追踪 ID
+  enabled: true  # 关闭百度统计
+  id: 485d8ea30b901271e27d6b7f0b224264  # 百度统计追踪 ID
 
 # Fill in your Cloudflare Analytics tracking ID to enable Cloudflare Analytics.  # 填写 Cloudflare Analytics 追踪 ID 以启用 Cloudflare 统计
 cloudflare_analytics:

@@ -23,8 +23,8 @@ direction: ltr
 # 可选地，你可以在 languages/*.yml 中添加 '键' 的翻译。
 nav:
   home: /
-  about: /about/
   articles: /archives/
+  about: /about/
   search: /search/
   Library: https://trapezoidal-house-62c.notion.site/Security-106b61af4289801a8bade51b1fac1c56?pvs=74
 
@@ -68,9 +68,9 @@ tags_overview: false
 #   - sort_updated: sort posts by last modification date instead of creation date.
 #   - 按最后修改日期而非创建日期对文章进行排序。
 posts_overview:
-  show_all_posts: true
-#  post_count: 5
-#  sort_updated: false
+  show_all_posts: false
+  post_count: 10
+  sort_updated: true
 
 # Customize the archive view.
 # 自定义归档视图。
@@ -200,15 +200,15 @@ mathjax:
 # Fill in your Disqus Comments Shortname to enable Disqus comments.  # 填写 Disqus 短名称以启用 Disqus 评论
 disqus:
   enabled: false  # 关闭 Disqus 评论
-  shortname: cactus-1  # Disqus 短名称
+  shortname: sunset2131  # Disqus 短名称
 
 # Fill in your Utterances data to enable Utterances comments  # 填写 Utterances 配置以启用 Utterances 评论
 utterances:
-  enabled: false  # 关闭 Utterances 评论
-  repo: owner/githubrepo  # GitHub 仓库地址
+  enabled: true  # 关闭 Utterances 评论
+  repo: sunset2131/sunset2131.github.io  # GitHub 仓库地址
   issue_term: pathname  # 以路径作为评论关联标识
   label: Comment  # 评论标签
-  theme: github-dark  # 主题样式
+  theme: github-light  # 主题样式
 
 # Fill in your Google Analytics tracking ID to enable Google Analytics.  # 填写 Google Analytics 追踪 ID 以启用 Google Analytics
 google_analytics:

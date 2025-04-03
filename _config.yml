@@ -5,11 +5,11 @@
 # Site  # 站点信息
 title: Sunset's Blog  # 站点标题
 subtitle: ''  # 副标题
-description: ''  # 站点描述
-keywords:  # 关键词
+description: 'Records of life and study at sunset'  # 站点描述
+keywords: Study,Linux,Windows,Domain,Tech # 关键词
 author: Sunset  # 作者
 language: en  # 语言
-timezone: ''  # 时区
+timezone: 'Asia/Shanghai'  # 时区
 
 # URL  # 站点 URL 配置
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'

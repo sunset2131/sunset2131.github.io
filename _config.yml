@@ -1,0 +1,137 @@
+# Hexo Configuration
+## Docs: https://hexo.io/docs/configuration.html  # 文档地址
+## Source: https://github.com/hexojs/hexo/  # 源代码地址
+
+# Site  # 站点信息
+title: Sunset's Blog  # 站点标题
+subtitle: ''  # 副标题
+description: ''  # 站点描述
+keywords:  # 关键词
+author: Sunset  # 作者
+language: en  # 语言
+timezone: ''  # 时区
+
+# URL  # 站点 URL 配置
+## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
+## 在这里设置站点 URL，例如 GitHub Page 的 URL 可设为 'https://username.github.io/project'
+url: http://www.sunset-blog.top
+permalink: :year/:month/:day/:title/  # 文章永久链接格式
+permalink_defaults:  # 永久链接默认值
+pretty_urls:  # 美化 URL
+  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
+  # 设为 false 以移除永久链接中的 'index.html'
+  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+  # 设为 false 以移除永久链接中的 '.html'
+
+# Directory  # 目录配置
+source_dir: source  # 源文件目录
+public_dir: public  # 生成的静态文件目录
+tag_dir: tags  # 标签目录
+archive_dir: archives  # 归档目录
+category_dir: categories  # 分类目录
+code_dir: downloads/code  # 代码存放目录
+i18n_dir: :lang  # 国际化目录
+skip_render:  # 跳过渲染的文件
+
+# Writing  # 文章相关配置
+new_post_name: :title.md # File name of new posts
+# 新文章的文件名格式
+default_layout: post  # 默认布局
+titlecase: false # Transform title into titlecase
+# 是否将标题转换为标题大小写
+external_link:
+  enable: true # Open external links in new tab
+  # 是否在新标签页打开外部链接
+  field: site # Apply to the whole site
+  # 适用于整个站点
+  exclude: ''  # 排除的链接
+filename_case: 0  # 文件名大小写格式（0：不转换，1：小写，2：大写）
+render_drafts: false  # 是否渲染草稿
+post_asset_folder: true  # 启用文章资源文件夹
+relative_link: false  # 是否启用相对链接
+future: true  # 是否允许未来日期的文章
+syntax_highlighter: highlight.js  # 语法高亮工具
+highlight:
+  line_number: true  # 是否显示行号
+  auto_detect: false  # 是否自动检测语言
+  tab_replace: ''  # 替换制表符
+  wrap: true  # 是否自动换行
+  hljs: false  # 是否启用 highlight.js
+prismjs:
+  preprocess: true  # 是否预处理 PrismJS
+  line_number: true  # 是否显示行号
+  tab_replace: ''  # 替换制表符
+
+# Home page setting  # 主页设置
+# path: Root path for your blogs index page. (default = '')
+# 主页索引页面的根路径（默认为 ''）
+# per_page: Posts displayed per page. (0 = disable pagination)
+# 每页显示的文章数（0 = 禁用分页）
+# order_by: Posts order. (Order by date descending by default)
+# 文章排序方式（默认按日期降序排列）
+index_generator:
+  path: ''
+  per_page: 10
+  order_by: -date
+
+# Category & Tag  # 分类与标签
+default_category: uncategorized  # 默认分类
+category_map:  # 分类映射
+tag_map:  # 标签映射
+
+# Metadata elements  # 元数据元素
+## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
+meta_generator: true  # 是否生成 meta 标签
+
+# Date / Time format  # 日期/时间格式
+## Hexo uses Moment.js to parse and display date
+## Hexo 使用 Moment.js 解析和显示日期
+## You can customize the date format as defined in
+## 你可以自定义日期格式，格式说明参考
+## http://momentjs.com/docs/#/displaying/format/
+date_format: YYYY-MM-DD  # 日期格式
+time_format: HH:mm:ss  # 时间格式
+## updated_option supports 'mtime', 'date', 'empty'
+## updated_option 支持 'mtime'（修改时间）、'date'（发布日期）、'empty'（空）
+updated_option: 'mtime'
+
+# Pagination  # 分页配置
+## Set per_page to 0 to disable pagination
+## 设为 0 以禁用分页
+per_page: 10  # 每页显示的文章数
+pagination_dir: page  # 分页目录
+
+# Include / Exclude file(s)  # 包含/排除的文件
+## include:/exclude: options only apply to the 'source/' folder
+## include/exclude 选项仅适用于 'source/' 文件夹
+include:
+exclude:
+ignore:
+
+# Extensions  # 扩展
+## Plugins: https://hexo.io/plugins/  # 插件地址
+## Themes: https://hexo.io/themes/  # 主题地址
+theme: cactus  # 主题名称
+
+theme_config:
+  colorscheme: classic  # 主题配色方案
+
+# Deployment  # 部署
+## Docs: https://hexo.io/docs/one-command-deployment  # 部署文档
+deploy:
+  type: ''  # 部署方式
+
+# Marked  # Markdown 渲染配置
+marked:
+  prependRoot: true  # 在资源路径前添加根目录
+  postAsset: true  # 启用文章资源
+
+# Security  # 安全配置
+encrypt: # hexo-blog-encrypt
+  abstract: 该文章被加密了,有问题请通过邮箱联系我  # 加密提示摘要
+  message: 该文章被加密了,有问题请通过邮箱联系我  # 加密提示信息
+  tags:
+  - {name: encrypt, password: 2131}  # 加密标签及密码
+  theme: xray  # 加密主题
+  wrong_pass_message: 密码错误~  # 密码错误提示
+  wrong_hash_message: 密码错误~  # Hash 错误提示

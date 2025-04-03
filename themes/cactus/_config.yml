@@ -8,7 +8,7 @@
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
 # 这可以是一个外部链接（例如，指向你的 GitHub 个人资料）或网站内的另一个页面。
-projects_url: http://github.com/probberechts
+projects_url: https://trapezoidal-house-62c.notion.site/Security-106b61af4289801a8bade51b1fac1c56?pvs=74
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 # 设置页面方向为 RTL 或 LTR，默认是 LTR。（如果设置为 'rtl'，则会加载 'vazir' 字体。）
@@ -26,7 +26,7 @@ nav:
   about: /about/
   articles: /archives/
   search: /search/
-  projects: http://github.com/probberechts
+  Library: https://trapezoidal-house-62c.notion.site/Security-106b61af4289801a8bade51b1fac1c56?pvs=74
 
 # Links to your social media accounts.
 # 你的社交媒体账号链接。

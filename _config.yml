@@ -131,7 +131,7 @@ encrypt: # hexo-blog-encrypt
   abstract: 该文章被加密了,有问题请通过邮箱联系我  # 加密提示摘要
   message: 该文章被加密了,有问题请通过邮箱联系我  # 加密提示信息
   tags:
-  - {name: encrypt, password: 2131}  # 加密标签及密码
+  - {name: encrypt, password: c3Vuc2V0YWN0aW9u}  # 加密标签及密码
   theme: xray  # 加密主题
   wrong_pass_message: 密码错误~  # 密码错误提示
   wrong_hash_message: 密码错误~  # Hash 错误提示

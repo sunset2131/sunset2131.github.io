@@ -1,0 +1,24 @@
+# Logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node modules
+node_modules/
+
+# Hexo generated folders/files
+public/
+.deploy_git/
+db.json
+
+# 如果你有其他配置文件不想上传，也可在这里忽略
+# 例如 Hexo 可能使用的额外配置文件：
+# _config.landscape.yml
+
+# 如果你有私密信息（比如 .env 文件），可以在这里忽略
+.env

@@ -1,0 +1,249 @@
+##############################################################################
+# Content
+# 内容
+##############################################################################
+
+# Link to a page that gives an overview of all your projects.
+# 连接到一个页面，该页面概述了你的所有项目。
+# This can be an external link (e.g., to you GitHub profile) or to another
+# page within your website.
+# 这可以是一个外部链接（例如，指向你的 GitHub 个人资料）或网站内的另一个页面。
+projects_url: http://github.com/probberechts
+
+# Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
+# 设置页面方向为 RTL 或 LTR，默认是 LTR。（如果设置为 'rtl'，则会加载 'vazir' 字体。）
+direction: ltr
+
+# Configure the navigation menu.
+# 配置导航菜单。
+# A pair 'Key: url' will result in a link to 'url' with the name 'Key' in the
+# navigation menu. Optionally, you can add translations for the 'Key' in
+# languages/*.yml
+# "键: url" 对将生成一个指向 'url' 的链接，并在导航菜单中显示为 '键'。
+# 可选地，你可以在 languages/*.yml 中添加 '键' 的翻译。
+nav:
+  home: /
+  about: /about/
+  articles: /archives/
+  search: /search/
+  projects: http://github.com/probberechts
+
+# Links to your social media accounts.
+# 你的社交媒体账号链接。
+# The 'icon' keys should correspond to Fontawesome icon names
+# 'icon' 键应对应 Fontawesome 图标名称
+# (see https://fontawesome.com/icons?d=gallery&s=brands);
+# （查看 https://fontawesome.com/icons?d=gallery&s=brands）
+# only 'mail' is an exception.
+# 只有 'mail' 是一个例外。
+# You can optionally add a 'label' key to set the title attribute on the link.
+# 你可以选择添加 'label' 键，以设置链接的 title 属性。
+# 'icon' value will be used as title when 'label' is missing.
+# 如果 'label' 缺失，'icon' 的值将作为 title 使用。
+social_links:
+#  -
+#    icon: github
+#    link: https://github.com/sunset2131
+  -
+    icon: mail
+    link: mailto:gongli20040304@gmail.com
+  -
+    icon: steam
+    link: https://steamcommunity.com/profiles/76561199016316702/
+
+# Customize the overview with displaying a tagcloud on the index page.
+# 自定义主页概览，是否显示标签云。
+# Options: https://hexo.io/docs/helpers.html#tagcloud
+# 选项参考：https://hexo.io/docs/helpers.html#tagcloud
+tags_overview: false
+
+# Customize the overview with the most recent blog posts on the index page.
+# 自定义主页概览，是否显示最近的博客文章。
+# Options:
+# 选项：
+#   - show_all_posts: whether to show all available posts.
+#   - 是否显示所有可用文章。
+#   - post_count: whether to show only the x most recent posts.
+#   - 是否仅显示最近的 x 篇文章。
+#   - sort_updated: sort posts by last modification date instead of creation date.
+#   - 按最后修改日期而非创建日期对文章进行排序。
+posts_overview:
+  show_all_posts: true
+#  post_count: 5
+#  sort_updated: false
+
+# Customize the archive view.
+# 自定义归档视图。
+# Options:
+# 选项：
+#   - sort_updated: sort posts by last modification date instead of creation date.
+#   - 按最后修改日期而非创建日期对文章进行排序。
+# Note: this does not work together with pagination, since the pagination
+# plugin will sort pages by date of creation.
+# 注意：这不能与分页一起使用，因为分页插件会按创建日期对页面进行排序。
+archive:
+  sort_updated: false
+
+# Customize the article view.
+# 自定义文章视图。
+# Options:
+# 选项：
+#   - show_updated: show the last modification date.
+#   - 显示最后修改日期。
+post:
+  show_updated: true
+
+# Customize the copyright years
+# 自定义版权年份。
+# Note: if start_year/end_year not provided, will use current year.
+# 注意：如果未提供 start_year/end_year，则使用当前年份。
+copyright:
+  start_year: 2025
+  end_year:
+
+# Customize the 404 page
+# 自定义 404 页面。
+# Options:
+# 选项：
+#   - enabled: whether to enable the 404 page (404.html).
+#   - 是否启用 404 页面 (404.html)。
+error_404:
+  enabled: true
+  title: "404 Page Not Found"
+  description: "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+  # 你正在查找的页面可能已被删除、更名或暂时不可用。
+
+##############################################################################
+# Look and Feel
+# 外观与风格
+##############################################################################
+
+
+# Customize the logo (i.e., the cactus) in the header.
+# 自定义页眉中的 Logo（例如仙人掌）。
+# Options:
+# 选项：
+#   - enabled: whether to show (true) or hide (false) the logo.
+#   - 是否显示 (true) 或隐藏 (false) Logo。
+#   - width: width of the logo in pixel units
+#   - Logo 的宽度（像素单位）。
+#   - height: height of the logo in pixel units
+#   - Logo 的高度（像素单位）。
+#   - url: where the logo can be found
+#   - Logo 的 URL 地址。
+#   - gravatar: whether to use your Gravatar as the logo
+#   - 是否使用 Gravatar 作为 Logo。
+#   - grayout: whether to enable a hover effect on the logo
+#   - 是否启用 Logo 的悬停效果。
+logo:
+  enabled: true
+  width: 50
+  height: 50
+  url: /images/logo.png
+  gravatar: false
+  grayout: false
+
+# Customize the favicons.  # 自定义网站图标
+# Cactus supports a limited set of the three most important icons:  # Cactus 支持三个主要的图标格式
+#   - desktop: The classic favion.ico file.  # 桌面端：经典的 favicon.ico 文件
+#   - android: A 192x192 PNG file.  # Android：192x192 的 PNG 文件
+#   - apple:  A 180x180 PNG file.  # 苹果设备：180x180 的 PNG 文件
+# These can be generated with http://realfavicongenerator.net/  # 这些可以使用 http://realfavicongenerator.net/ 生成
+# Options:  # 选项
+#   - url: where the icon can be found  # url：图标的存放路径
+#   - gravatar: whether to create a favicon from your Gravatar  # gravatar：是否使用 Gravatar 头像生成网站图标
+favicon:
+  desktop:
+    url: /images/logo.png  # 桌面端图标路径
+    gravatar: false  # 不使用 Gravatar 头像
+  android:
+    url: /images/logo.png   # Android 图标路径
+    gravatar: false  # 不使用 Gravatar 头像
+  apple:
+    url: /images/logo.png   # 苹果设备图标路径
+    gravatar: false  # 不使用 Gravatar 头像
+
+# The color scheme that should be used to highlight codeblocks.  # 代码块的高亮配色方案
+# See source/css/_highlight for a list of all available color schemes.  # 查看 source/css/_highlight 以获取所有可用的配色方案
+# highlight: rainbow  # 取消 rainbow 配色
+
+# Set the color scheme.  # 设置配色方案
+# Available color schemes are 'dark', 'light', 'classic' and 'white'.  # 可用的配色方案包括 'dark'（暗色）, 'light'（亮色）, 'classic'（经典）, 'white'（白色）
+# Alternatively, add your own custom color scheme to source/css/_colors.  # 或者可以在 source/css/_colors 中添加自定义配色方案
+colorscheme: dark  # 使用暗色模式
+
+# Maximal width of the page in rem units.  # 页面最大宽度（单位 rem）
+page_width: 48  # 页面宽度设置为 48rem
+
+##############################################################################
+# Miscellaneous  # 其他设置
+##############################################################################
+
+# Enable or disable the RSS feed.  # 启用或禁用 RSS 订阅源
+rss: false  # 关闭 RSS 订阅
+
+# Turn your web pages into graph objects (see http://ogp.me).  # 将网页转换为开放图谱对象 (OGP)
+open_graph:
+  fb_app_id:  # Facebook 应用 ID
+  fb_admins:  # Facebook 管理员 ID
+  twitter_id:  # Twitter 账户 ID
+  google_plus:  # Google+ 账户 ID（已废弃）
+
+##############################################################################
+# Plugins  # 插件设置
+##############################################################################
+
+# Enable MathJax support for Latex  # 启用 MathJax 以支持 LaTeX 公式
+mathjax:
+  enabled: false  # 关闭 MathJax
+
+# Fill in your Disqus Comments Shortname to enable Disqus comments.  # 填写 Disqus 短名称以启用 Disqus 评论
+disqus:
+  enabled: false  # 关闭 Disqus 评论
+  shortname: cactus-1  # Disqus 短名称
+
+# Fill in your Utterances data to enable Utterances comments  # 填写 Utterances 配置以启用 Utterances 评论
+utterances:
+  enabled: false  # 关闭 Utterances 评论
+  repo: owner/githubrepo  # GitHub 仓库地址
+  issue_term: pathname  # 以路径作为评论关联标识
+  label: Comment  # 评论标签
+  theme: github-dark  # 主题样式
+
+# Fill in your Google Analytics tracking ID to enable Google Analytics.  # 填写 Google Analytics 追踪 ID 以启用 Google Analytics
+google_analytics:
+  enabled: false  # 关闭 Google Analytics
+  id: UA-86660611-1  # Google Analytics 追踪 ID
+
+# Fill in your Baidu Analytics tracking ID to enable Baidu Analytics.  # 填写百度统计追踪 ID 以启用百度统计
+baidu_analytics:
+  enabled: false  # 关闭百度统计
+  id: 2e6da3c375c8a87f5b664cea6d4cb29c  # 百度统计追踪 ID
+
+# Fill in your Cloudflare Analytics tracking ID to enable Cloudflare Analytics.  # 填写 Cloudflare Analytics 追踪 ID 以启用 Cloudflare 统计
+cloudflare_analytics:
+  enabled: false  # 关闭 Cloudflare 统计
+  id: 0dabb6e21848405483a237e6a7b6ed04  # Cloudflare 追踪 ID
+
+# Fill in your Umami Analytics tracking ID to enable Umami Analytics.  # 填写 Umami Analytics 追踪 ID 以启用 Umami 统计
+umami_analytics:
+  enabled: false  # 关闭 Umami 统计
+  id: e77e68be-f6e4-4br3-9365-2b76b57cd571  # Umami 追踪 ID
+  host: https://analytics.domain.com  # Umami 服务器地址
+  script_name: umami.js  # Umami 脚本名称
+
+# Fill in your Gravatar email or hash if you want to use your gravatar as the  # 填写你的 Gravatar 邮箱或哈希，以便使用 Gravatar 作为
+# logo and/or favicons of you website.  # 网站的 logo 或 favicon
+# To generate hash: `$ echo -n "name@email.com" | md5`.  # 生成哈希的方法：`$ echo -n "name@email.com" | md5`
+gravatar:
+  email: name@email.com  # Gravatar 电子邮件
+  hash: d41d8cd98f00b204e9800998ecf8427e  # Gravatar 计算出的哈希值
+
+# loads libraries and styles from CDN instead or relying on local files  # 是否使用 CDN 资源加载库和样式，而不是本地文件
+cdn:
+  enable: true  # 启用 CDN 资源
+  jquery: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js  # jQuery CDN 地址
+  clipboard: https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.7/clipboard.min.js  # Clipboard.js CDN 地址
+  font_awesome: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css  # Font Awesome CDN 地址
+  justified_gallery_css: https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.8.1/css/justifiedGallery.min.css  # Justified Gallery CSS CDN 地址
+  justified_gallery_js: https://cdnjs.cloudflare.com/ajax/libs/justifiedGallery/3.8.1/js/jquery.justifiedGallery.min.js  # Justified Gallery JS CDN 地址

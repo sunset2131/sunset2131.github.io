@@ -1,0 +1,36 @@
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+  <header>
+    <%- partial('_partial/post/title', { post: page, index: false, class_name: 'posttitle' }) %>
+    <div class="meta">
+      <span class="author p-author h-card" itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <span class="p-name" itemprop="name"><% if (page.author) { %><%- page.author %><% } else { %><%- config.author %><% } %></span>
+      </span>
+      <%- partial('_partial/post/date', { post: page, class_name: 'postdate' }) %>
+      <%- partial('_partial/post/category') %>
+      <%- partial('_partial/post/tag') %>
+    </div>
+  </header>
+  <%- partial('_partial/post/gallery') %>
+  <div class="content e-content" itemprop="articleBody">
+    <%- page.content %>
+  </div>
+
+<!--  使用Hexo-blog-encrypt时，解密后会出现代码框无限长度，此代码修复 start-->
+  <script src="toc.js" type="text/javascript"></script>
+  <script>
+    window.addEventListener('hexo-blog-decrypt', function () {
+        const containers = document.querySelectorAll('.hbe-container');
+        if (containers.length > 0) {
+            containers.forEach(container => {
+                container.style.margin = '0 0';
+                container.style.overflow = 'hidden';
+            });
+
+        } else {
+            alert("未获取到 .hbe-container 元素！");
+        }
+    });
+  </script>
+<!--  end-->
+</article>
+<%- partial('_partial/comments') %>

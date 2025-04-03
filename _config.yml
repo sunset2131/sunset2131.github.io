@@ -14,7 +14,7 @@ timezone: 'Asia/Shanghai'  # 时区
 # URL  # 站点 URL 配置
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 ## 在这里设置站点 URL，例如 GitHub Page 的 URL 可设为 'https://username.github.io/project'
-url: http://sunsetaction.top
+url: https://sunsetaction.top
 permalink: :year/:month/:day/:title/  # 文章永久链接格式
 permalink_defaults:  # 永久链接默认值
 pretty_urls:  # 美化 URL

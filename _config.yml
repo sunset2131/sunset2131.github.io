@@ -135,3 +135,11 @@ encrypt: # hexo-blog-encrypt
   theme: xray  # 加密主题
   wrong_pass_message: 密码错误~  # 密码错误提示
   wrong_hash_message: 密码错误~  # Hash 错误提示
+
+sitemap:
+  path:
+    - sitemap.xml
+    - sitemap.txt
+  rel: true
+  tags: true
+  categories: true

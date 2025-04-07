@@ -5,7 +5,7 @@
 # Site  # 站点信息
 title: Sunset's Blog  # 站点标题
 subtitle: 'Record life and study'  # 副标题
-description: 'Records of life and study at sunset,该站点现在仅记录靶机的 writeup,别的学习记录现在存放在 library中.'  # 站点描述
+description: 'Records of life and study at sunset.'  # 站点描述
 keywords: Study,Linux,Windows,Domain,Tech # 关键词
 author: Sunset  # 作者
 language: en  # 语言

@@ -15,22 +15,38 @@
     <%- page.content %>
   </div>
 
-<!--  使用Hexo-blog-encrypt时，解密后会出现代码框无限长度，此代码修复 start-->
-  <script src="toc.js" type="text/javascript"></script>
+
+  <!--  此script都是个人添加，全部删除无影响-->
+  <script src="/js/toc.js" type="text/javascript"></script>
   <script>
     window.addEventListener('hexo-blog-decrypt', function () {
-        const containers = document.querySelectorAll('.hbe-container');
-        if (containers.length > 0) {
-            containers.forEach(container => {
-                container.style.margin = '0 0';
-                container.style.overflow = 'hidden';
-            });
+      // 修复 hbe-container 样式问题
+      const containers = document.querySelectorAll('.hbe-container');
+      containers.forEach(container => {
+        container.style.margin = '0 0';
+        container.style.overflow = 'hidden';
+      });
 
+      // 给解密后的文章添加 id
+      const contentEl = document.querySelector('.content.e-content');
+      if (contentEl) {
+        contentEl.setAttribute('id', 'post');
+      }
+
+      // 等待文章渲染完成后再生成 TOC，避免空 toc
+      setTimeout(() => {
+        if (typeof makeList === 'function') {
+          makeList({
+            target: '#toc',
+            parent: 'article'
+          });
         } else {
-            alert("未获取到 .hbe-container 元素！");
+          console.warn('makeList 未定义，TOC 无法生成');
         }
+      }, 100); // 加一点延迟，防止文章还未完全渲染
     });
   </script>
-<!--  end-->
+  <!--  end-->
+
 </article>
 <%- partial('_partial/comments') %>

@@ -4,13 +4,13 @@ date: 2025-04-03 00:16:03
 ---
 ## About me
 
-网安专业小菜鸡，大二在读（雾）现在目标是找到合适的工作。
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-社恐面试（线上也是..口吃）是真的好难，真的好难好难。
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 社恐
 
 ## Recent
 
-无聊打靶机，无聊打游戏(游戏居多:/
+打游戏打靶机....
 
 ## How to find me?
 

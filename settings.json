@@ -1,0 +1,7 @@
+{
+  "blogTitle": "Sunset's Blog",
+  "homePostsLimit": 10,
+  "writingPostsLimit": 50,
+  "showSearchButton": true,
+  "showAboutButton": true
+}

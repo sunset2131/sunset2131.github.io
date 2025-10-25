@@ -4,7 +4,7 @@
         <title>Sunset Blog</title>
         <link>https://www.sunsetaction.top</link>
         <description>Sunset的个人博客，记录生活学习。</description>
-        <lastBuildDate>Sat, 25 Oct 2025 16:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Oct 2025 16:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>zh-CN</language>
@@ -14,6 +14,15 @@
             <link>https://www.sunsetaction.top</link>
         </image>
         <copyright>All rights reserved 2025, Sunset</copyright>
+        <item>
+            <title><![CDATA[念念碎]]></title>
+            <link>https://www.sunsetaction.top/2025/10/26/念念碎</link>
+            <guid isPermaLink="false">https://www.sunsetaction.top/2025/10/26/念念碎</guid>
+            <pubDate>Sun, 26 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[xxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...]]></description>
+            <category>杂</category>
+            <category>胡说八道</category>
+        </item>
         <item>
             <title><![CDATA[HackMyVM - Sysadmin]]></title>
             <link>https://www.sunsetaction.top/2025/10/25/HackMyVMSysadmin</link>
@@ -638,18 +647,6 @@
             <category>AWS_S3</category>
             <category>Dynamodb</category>
             <category>PD4ML</category>
-        </item>
-        <item>
-            <title><![CDATA[HackTheBox - Machine - Support]]></title>
-            <link>https://www.sunsetaction.top/2025/06/05/HackTheBoxMachine -Support</link>
-            <guid isPermaLink="false">https://www.sunsetaction.top/2025/06/05/HackTheBoxMachine -Support</guid>
-            <pubDate>Thu, 05 Jun 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Machine Support https://app.hackthebox.com/machines/Support | Windows | Easy Medium Recon 端口信息 使用 nmap 进行扫描 SMB 枚举 测试SMB是否允许匿名登录 允许匿名登录，并且在support too...]]></description>
-            <category>靶机</category>
-            <category>HackTheBox</category>
-            <category>Windows</category>
-            <category>RBCD</category>
-            <category>Reverse</category>
         </item>
     </channel>
 </rss>

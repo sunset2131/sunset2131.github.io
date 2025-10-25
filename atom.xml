@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sunsetaction.top</id>
     <title>Sunset Blog</title>
-    <updated>2025-10-25T16:12:21.496Z</updated>
+    <updated>2025-10-25T16:24:19.603Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Sunset</name>
@@ -14,6 +14,19 @@
     <logo>https://www.sunsetaction.top/images/logo.png</logo>
     <icon>https://www.sunsetaction.top/images/Logo.ico</icon>
     <rights>All rights reserved 2025, Sunset</rights>
+    <entry>
+        <title type="html"><![CDATA[念念碎]]></title>
+        <id>https://www.sunsetaction.top/2025/10/26/念念碎</id>
+        <link href="https://www.sunsetaction.top/2025/10/26/念念碎"/>
+        <updated>2025-10-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[xxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...]]></summary>
+        <author>
+            <name>Sunset</name>
+            <uri>https://www.sunsetaction.top/about</uri>
+        </author>
+        <category label="杂"/>
+        <category label="胡说八道"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HackMyVM - Sysadmin]]></title>
         <id>https://www.sunsetaction.top/2025/10/25/HackMyVMSysadmin</id>
@@ -834,21 +847,5 @@
         <category label="AWS_S3"/>
         <category label="Dynamodb"/>
         <category label="PD4ML"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HackTheBox - Machine - Support]]></title>
-        <id>https://www.sunsetaction.top/2025/06/05/HackTheBoxMachine -Support</id>
-        <link href="https://www.sunsetaction.top/2025/06/05/HackTheBoxMachine -Support"/>
-        <updated>2025-06-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Machine Support https://app.hackthebox.com/machines/Support | Windows | Easy Medium Recon 端口信息 使用 nmap 进行扫描 SMB 枚举 测试SMB是否允许匿名登录 允许匿名登录，并且在support too...]]></summary>
-        <author>
-            <name>Sunset</name>
-            <uri>https://www.sunsetaction.top/about</uri>
-        </author>
-        <category label="靶机"/>
-        <category label="HackTheBox"/>
-        <category label="Windows"/>
-        <category label="RBCD"/>
-        <category label="Reverse"/>
     </entry>
 </feed>

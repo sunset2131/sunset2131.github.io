@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sunsetaction.top</id>
     <title>Sunset Blog</title>
-    <updated>2025-10-26T06:14:22.478Z</updated>
+    <updated>2025-10-26T15:18:27.194Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Sunset</name>
@@ -27,6 +27,41 @@
         </author>
         <category label="杂"/>
         <category label="胡说八道"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HackTheBox - Machine - Puppy]]></title>
+        <id>https://www.sunsetaction.top/2025/10/25/HackTheBoxSeason8 - Puppy</id>
+        <link href="https://www.sunsetaction.top/2025/10/25/HackTheBoxSeason8 - Puppy"/>
+        <link rel="enclosure" href="https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Puppy/image.png" type="image/png"/>
+        <updated>2025-05-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Season8 Puppy https://app.hackthebox.com/machines/661 | Medium Machine Information：As is common in real life pentests, you will start the Puppy box wi...]]></summary>
+        <author>
+            <name>Sunset</name>
+            <uri>https://www.sunsetaction.top/about</uri>
+        </author>
+        <category label="靶机"/>
+        <category label="HackTheBox"/>
+        <category label="Windows靶机"/>
+        <category label="域渗透"/>
+        <category label="DPAPI"/>
+        <category label="KeePass"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HackTheBox - Machine - Artificial]]></title>
+        <id>https://www.sunsetaction.top/2025/10/25/HackTheBoxSeason8 - Artificial</id>
+        <link href="https://www.sunsetaction.top/2025/10/25/HackTheBoxSeason8 - Artificial"/>
+        <link rel="enclosure" href="https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Artificial/image.png" type="image/png"/>
+        <updated>2025-06-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Season8 Artificial https://app.hackthebox.com/machines/Artificial | Linux | Easy Recon 访问 HTTP ，采集指纹 主页中还有一段关于训练模型的代码： 可以创建账户，创建sunset用户 进入到后台有一个文件上传功...]]></summary>
+        <author>
+            <name>Sunset</name>
+            <uri>https://www.sunsetaction.top/about</uri>
+        </author>
+        <category label="靶机"/>
+        <category label="HackTheBox"/>
+        <category label="Linux"/>
+        <category label="tensorflow"/>
+        <category label="Backrest"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[HackMyVM - Sysadmin]]></title>

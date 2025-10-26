@@ -27,6 +27,45 @@
             ]
         },
         {
+            "id": "https://www.sunsetaction.top/2025/10/25/HackTheBoxSeason8 - Puppy",
+            "content_html": "Season8 Puppy https://app.hackthebox.com/machines/661 | Medium Machine Information：As is common in real life pentests, you will start the Puppy box wi...",
+            "url": "https://www.sunsetaction.top/2025/10/25/HackTheBoxSeason8 - Puppy",
+            "title": "HackTheBox - Machine - Puppy",
+            "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Puppy/image.png",
+            "date_modified": "2025-05-19T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "HackTheBox",
+                "Windows靶机",
+                "域渗透",
+                "DPAPI",
+                "KeePass"
+            ]
+        },
+        {
+            "id": "https://www.sunsetaction.top/2025/10/25/HackTheBoxSeason8 - Artificial",
+            "content_html": "Season8 Artificial https://app.hackthebox.com/machines/Artificial | Linux | Easy Recon 访问 HTTP ，采集指纹 主页中还有一段关于训练模型的代码： 可以创建账户，创建sunset用户 进入到后台有一个文件上传功...",
+            "url": "https://www.sunsetaction.top/2025/10/25/HackTheBoxSeason8 - Artificial",
+            "title": "HackTheBox - Machine - Artificial",
+            "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Artificial/image.png",
+            "date_modified": "2025-06-28T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "HackTheBox",
+                "Linux",
+                "tensorflow",
+                "Backrest"
+            ]
+        },
+        {
             "id": "https://www.sunsetaction.top/2025/10/25/HackMyVMSysadmin",
             "content_html": "Sysadmin. https://hackmyvm.eu/machines/machine.php?vm=Sysadmin Recon PortScan 枚举 80 端口，看样子是文件上传，并且是让我们上传 C 语言文件，并且会运行 端口扫描 F12 查看源码时发现 RCE 这里的猜测是，上传 c...",
             "url": "https://www.sunsetaction.top/2025/10/25/HackMyVMSysadmin",

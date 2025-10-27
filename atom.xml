@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sunsetaction.top</id>
     <title>Sunset Blog</title>
-    <updated>2025-10-26T15:18:27.194Z</updated>
+    <updated>2025-10-27T15:21:48.358Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Sunset</name>
@@ -14,6 +14,22 @@
     <logo>https://www.sunsetaction.top/images/logo.png</logo>
     <icon>https://www.sunsetaction.top/images/Logo.ico</icon>
     <rights>All rights reserved 2025, Sunset</rights>
+    <entry>
+        <title type="html"><![CDATA[TheHackersLabs - THLPWN]]></title>
+        <id>https://www.sunsetaction.top/2025/10/27/TheHackersLabsTHLPWN</id>
+        <link href="https://www.sunsetaction.top/2025/10/27/TheHackersLabsTHLPWN"/>
+        <link rel="enclosure" href="https://www.sunsetaction.top/post-images/TheHackersLabsTHLPWN/image.png" type="image/png"/>
+        <updated>2025-10-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[THLPWN https://labs.thehackerslabs.com/machine/141 Recon PortScan 枚举 看来还运行着邮件服务 我们根据 thl 的默认规则即可访问 一番摸索后在网站下载页面中能下载到一个 ELF 文件 通过 strings 可以拿到疑似用户的账户密码...]]></summary>
+        <author>
+            <name>Sunset</name>
+            <uri>https://www.sunsetaction.top/about</uri>
+        </author>
+        <category label="靶机"/>
+        <category label="TheHackersLabs"/>
+        <category label="Linux"/>
+        <category label="PWN"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[念念碎]]></title>
         <id>https://www.sunsetaction.top/2025/10/26/念念碎</id>

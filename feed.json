@@ -11,6 +11,44 @@
     },
     "items": [
         {
+            "id": "https://www.sunsetaction.top/2025/11/02/TheHackersLabsZAPP",
+            "content_html": "ZAPP https://labs.thehackerslabs.com/machine/143 Recon PortScan 枚举 上边貌似已经扫出来一点东西 得到两个文件 这段文字使用了 Leet Speak (l33t)，也就是用数字和符号来替代字母。这是一种常见的CTF混淆技巧。同时，从单词...",
+            "url": "https://www.sunsetaction.top/2025/11/02/TheHackersLabsZAPP",
+            "title": "TheHackersLabs - ZAPP",
+            "image": "https://www.sunsetaction.top/post-images/TheHackersLabsZAPP/image.png",
+            "date_modified": "2025-11-02T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "TheHackersLabs",
+                "Linux",
+                "MISC"
+            ]
+        },
+        {
+            "id": "https://www.sunsetaction.top/2025/11/02/TheHackersLabsPhotographer",
+            "content_html": "Photographer https://labs.thehackerslabs.com/machine/142 Recon PortScan 枚举 主页是静态网页，但得到一个用户名 Ethan 目录扫描 admin 中有登录框 这里扫描了端口，测试了很多漏洞 然后因为名字是摄影师还把图片隐写都过了...",
+            "url": "https://www.sunsetaction.top/2025/11/02/TheHackersLabsPhotographer",
+            "title": "TheHackersLabs - Photographer",
+            "image": "https://www.sunsetaction.top/post-images/TheHackersLabsPhotographer/image.png",
+            "date_modified": "2025-11-02T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "TheHackersLabs",
+                "Linux",
+                "XXE",
+                "FileUpload",
+                "Disk"
+            ]
+        },
+        {
             "id": "https://www.sunsetaction.top/2025/10/28/TheHackersLabsLuna",
             "content_html": "Luna https://labs.thehackerslabs.com/machine/53 Recon PortScan 现在不知道为什么我的 nmap 总是会扫出来 25 和 110 端口 枚举 80 端口 5000 端口 SSTI 点击 Greet me 报错了，并且能知道调试已经开了 | ...",
             "url": "https://www.sunsetaction.top/2025/10/28/TheHackersLabsLuna",

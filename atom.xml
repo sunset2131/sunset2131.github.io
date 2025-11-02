@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sunsetaction.top</id>
     <title>Sunset Blog</title>
-    <updated>2025-10-28T09:18:22.457Z</updated>
+    <updated>2025-11-02T07:42:09.083Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Sunset</name>
@@ -14,6 +14,40 @@
     <logo>https://www.sunsetaction.top/images/logo.png</logo>
     <icon>https://www.sunsetaction.top/images/Logo.ico</icon>
     <rights>All rights reserved 2025, Sunset</rights>
+    <entry>
+        <title type="html"><![CDATA[TheHackersLabs - ZAPP]]></title>
+        <id>https://www.sunsetaction.top/2025/11/02/TheHackersLabsZAPP</id>
+        <link href="https://www.sunsetaction.top/2025/11/02/TheHackersLabsZAPP"/>
+        <link rel="enclosure" href="https://www.sunsetaction.top/post-images/TheHackersLabsZAPP/image.png" type="image/png"/>
+        <updated>2025-11-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ZAPP https://labs.thehackerslabs.com/machine/143 Recon PortScan 枚举 上边貌似已经扫出来一点东西 得到两个文件 这段文字使用了 Leet Speak (l33t)，也就是用数字和符号来替代字母。这是一种常见的CTF混淆技巧。同时，从单词...]]></summary>
+        <author>
+            <name>Sunset</name>
+            <uri>https://www.sunsetaction.top/about</uri>
+        </author>
+        <category label="靶机"/>
+        <category label="TheHackersLabs"/>
+        <category label="Linux"/>
+        <category label="MISC"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TheHackersLabs - Photographer]]></title>
+        <id>https://www.sunsetaction.top/2025/11/02/TheHackersLabsPhotographer</id>
+        <link href="https://www.sunsetaction.top/2025/11/02/TheHackersLabsPhotographer"/>
+        <link rel="enclosure" href="https://www.sunsetaction.top/post-images/TheHackersLabsPhotographer/image.png" type="image/png"/>
+        <updated>2025-11-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Photographer https://labs.thehackerslabs.com/machine/142 Recon PortScan 枚举 主页是静态网页，但得到一个用户名 Ethan 目录扫描 admin 中有登录框 这里扫描了端口，测试了很多漏洞 然后因为名字是摄影师还把图片隐写都过了...]]></summary>
+        <author>
+            <name>Sunset</name>
+            <uri>https://www.sunsetaction.top/about</uri>
+        </author>
+        <category label="靶机"/>
+        <category label="TheHackersLabs"/>
+        <category label="Linux"/>
+        <category label="XXE"/>
+        <category label="FileUpload"/>
+        <category label="Disk"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TheHackersLabs - Luna]]></title>
         <id>https://www.sunsetaction.top/2025/10/28/TheHackersLabsLuna</id>

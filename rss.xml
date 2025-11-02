@@ -4,7 +4,7 @@
         <title>Sunset Blog</title>
         <link>https://www.sunsetaction.top</link>
         <description>Sunset的个人博客，记录生活学习。</description>
-        <lastBuildDate>Tue, 28 Oct 2025 09:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Nov 2025 07:42:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>zh-CN</language>
@@ -14,6 +14,32 @@
             <link>https://www.sunsetaction.top</link>
         </image>
         <copyright>All rights reserved 2025, Sunset</copyright>
+        <item>
+            <title><![CDATA[TheHackersLabs - ZAPP]]></title>
+            <link>https://www.sunsetaction.top/2025/11/02/TheHackersLabsZAPP</link>
+            <guid isPermaLink="false">https://www.sunsetaction.top/2025/11/02/TheHackersLabsZAPP</guid>
+            <pubDate>Sun, 02 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[ZAPP https://labs.thehackerslabs.com/machine/143 Recon PortScan 枚举 上边貌似已经扫出来一点东西 得到两个文件 这段文字使用了 Leet Speak (l33t)，也就是用数字和符号来替代字母。这是一种常见的CTF混淆技巧。同时，从单词...]]></description>
+            <category>靶机</category>
+            <category>TheHackersLabs</category>
+            <category>Linux</category>
+            <category>MISC</category>
+            <enclosure url="https://www.sunsetaction.top/post-images/TheHackersLabsZAPP/image.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[TheHackersLabs - Photographer]]></title>
+            <link>https://www.sunsetaction.top/2025/11/02/TheHackersLabsPhotographer</link>
+            <guid isPermaLink="false">https://www.sunsetaction.top/2025/11/02/TheHackersLabsPhotographer</guid>
+            <pubDate>Sun, 02 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Photographer https://labs.thehackerslabs.com/machine/142 Recon PortScan 枚举 主页是静态网页，但得到一个用户名 Ethan 目录扫描 admin 中有登录框 这里扫描了端口，测试了很多漏洞 然后因为名字是摄影师还把图片隐写都过了...]]></description>
+            <category>靶机</category>
+            <category>TheHackersLabs</category>
+            <category>Linux</category>
+            <category>XXE</category>
+            <category>FileUpload</category>
+            <category>Disk</category>
+            <enclosure url="https://www.sunsetaction.top/post-images/TheHackersLabsPhotographer/image.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[TheHackersLabs - Luna]]></title>
             <link>https://www.sunsetaction.top/2025/10/28/TheHackersLabsLuna</link>

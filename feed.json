@@ -11,6 +11,27 @@
     },
     "items": [
         {
+            "id": "https://www.sunsetaction.top/2025/11/04/HackMyVMSoc1",
+            "content_html": "Soc1 https://hackmyvm.eu/machines/machine.php?vm=Soc1 Recon PortScan 开放了多个 Web 服务 (Apache, Splunk, Jenkins) 和一个数据库服务 (MongoDB) 枚举 web 首先还是看 WEB 服务，但是貌...",
+            "url": "https://www.sunsetaction.top/2025/11/04/HackMyVMSoc1",
+            "title": "HackMyVM - Soc1",
+            "image": "https://www.sunsetaction.top/post-images/HackMyVMSoc1/image.png",
+            "date_modified": "2025-11-04T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "TheHackersLabs",
+                "Linux",
+                "FUZZ",
+                "Jenkins",
+                "Splunk",
+                "CVE-2023-46214"
+            ]
+        },
+        {
             "id": "https://www.sunsetaction.top/2025/11/02/TheHackersLabsZAPP",
             "content_html": "ZAPP https://labs.thehackerslabs.com/machine/143 Recon PortScan 枚举 上边貌似已经扫出来一点东西 得到两个文件 这段文字使用了 Leet Speak (l33t)，也就是用数字和符号来替代字母。这是一种常见的CTF混淆技巧。同时，从单词...",
             "url": "https://www.sunsetaction.top/2025/11/02/TheHackersLabsZAPP",

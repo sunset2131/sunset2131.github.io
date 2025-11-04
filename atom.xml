@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sunsetaction.top</id>
     <title>Sunset Blog</title>
-    <updated>2025-11-02T07:42:09.083Z</updated>
+    <updated>2025-11-04T11:39:32.465Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Sunset</name>
@@ -14,6 +14,25 @@
     <logo>https://www.sunsetaction.top/images/logo.png</logo>
     <icon>https://www.sunsetaction.top/images/Logo.ico</icon>
     <rights>All rights reserved 2025, Sunset</rights>
+    <entry>
+        <title type="html"><![CDATA[HackMyVM - Soc1]]></title>
+        <id>https://www.sunsetaction.top/2025/11/04/HackMyVMSoc1</id>
+        <link href="https://www.sunsetaction.top/2025/11/04/HackMyVMSoc1"/>
+        <link rel="enclosure" href="https://www.sunsetaction.top/post-images/HackMyVMSoc1/image.png" type="image/png"/>
+        <updated>2025-11-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Soc1 https://hackmyvm.eu/machines/machine.php?vm=Soc1 Recon PortScan 开放了多个 Web 服务 (Apache, Splunk, Jenkins) 和一个数据库服务 (MongoDB) 枚举 web 首先还是看 WEB 服务，但是貌...]]></summary>
+        <author>
+            <name>Sunset</name>
+            <uri>https://www.sunsetaction.top/about</uri>
+        </author>
+        <category label="靶机"/>
+        <category label="TheHackersLabs"/>
+        <category label="Linux"/>
+        <category label="FUZZ"/>
+        <category label="Jenkins"/>
+        <category label="Splunk"/>
+        <category label="CVE-2023-46214"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TheHackersLabs - ZAPP]]></title>
         <id>https://www.sunsetaction.top/2025/11/02/TheHackersLabsZAPP</id>

@@ -11,6 +11,68 @@
     },
     "items": [
         {
+            "id": "https://www.sunsetaction.top/2025/11/12/HackTheBoxSeason8 - Voleur",
+            "content_html": "Season8 Voleur https://app.hackthebox.com/machines/Voleur | Window | Medium Machine Information ：As is common in real life Windows pentests, you will ...",
+            "url": "https://www.sunsetaction.top/2025/11/12/HackTheBoxSeason8 - Voleur",
+            "title": "HackTheBox - Machine - Voleur",
+            "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Voleur/image.png",
+            "date_modified": "2025-07-07T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "HackTheBox",
+                "Windows",
+                "BloodyAD",
+                "NTDS",
+                "TargetedKerberoasting",
+                "DPAPI"
+            ]
+        },
+        {
+            "id": "https://www.sunsetaction.top/2025/11/12/HackTheBoxSeason8 - RustyKey",
+            "content_html": "Season8 RustyKey https://app.hackthebox.com/machines/RustyKey | Windows | Hard Machine Information：As is common in real life Windows pentests, you wil...",
+            "url": "https://www.sunsetaction.top/2025/11/12/HackTheBoxSeason8 - RustyKey",
+            "title": "HackTheBox - Machine - RustyKey",
+            "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20RustyKey/wyyay.jpg",
+            "date_modified": "2025-06-30T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "HackTheBox",
+                "Windows",
+                "RBCD",
+                "COMhijack",
+                "TimeRoast",
+                "RunasCs"
+            ]
+        },
+        {
+            "id": "https://www.sunsetaction.top/2025/11/12/HackMyVMKrustykrab",
+            "content_html": "Krustykrab. https://hackmyvm.eu/machines/machine.php?vm=Krustykrab Note：who lives in a pineapple under the sea? 前期踩点 Web 渗透 信息收集 访问 HTTP 服务，Apache 默认页...",
+            "url": "https://www.sunsetaction.top/2025/11/12/HackMyVMKrustykrab",
+            "title": "HackMyVM - Krustykrab",
+            "image": "https://www.sunsetaction.top/post-images/HackMyVMKrustykrab/image.png",
+            "date_modified": "2025-04-18T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "Linux靶机",
+                "HackMyVM",
+                "CTF",
+                "越权",
+                "路径劫持"
+            ]
+        },
+        {
             "id": "https://www.sunsetaction.top/2025/11/04/HackMyVMSoc1",
             "content_html": "Soc1 https://hackmyvm.eu/machines/machine.php?vm=Soc1 Recon PortScan 开放了多个 Web 服务 (Apache, Splunk, Jenkins) 和一个数据库服务 (MongoDB) 枚举 web 首先还是看 WEB 服务，但是貌...",
             "url": "https://www.sunsetaction.top/2025/11/04/HackMyVMSoc1",
@@ -1648,26 +1710,6 @@
                 "远程串流",
                 "Sunshine",
                 "Moonlight"
-            ]
-        },
-        {
-            "id": "https://www.sunsetaction.top/2025/04/18/HackMyVMKrustykrab",
-            "content_html": "Krustykrab. https://hackmyvm.eu/machines/machine.php?vm=Krustykrab Note：who lives in a pineapple under the sea? 前期踩点 Web 渗透 信息收集 访问 HTTP 服务，Apache 默认页...",
-            "url": "https://www.sunsetaction.top/2025/04/18/HackMyVMKrustykrab",
-            "title": "HackMyVM - Krustykrab",
-            "image": "https://www.sunsetaction.top/post-images/HackMyVMKrustykrab/image.png",
-            "date_modified": "2025-04-18T00:00:00.000Z",
-            "author": {
-                "name": "Sunset",
-                "url": "https://www.sunsetaction.top/about"
-            },
-            "tags": [
-                "靶机",
-                "Linux靶机",
-                "HackMyVM",
-                "CTF",
-                "越权",
-                "路径劫持"
             ]
         },
         {

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sunsetaction.top</id>
     <title>Sunset Blog</title>
-    <updated>2025-11-04T17:01:34.425Z</updated>
+    <updated>2025-11-12T16:57:35.556Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Sunset</name>
@@ -14,6 +14,62 @@
     <logo>https://www.sunsetaction.top/images/logo.png</logo>
     <icon>https://www.sunsetaction.top/images/Logo.ico</icon>
     <rights>All rights reserved 2025, Sunset</rights>
+    <entry>
+        <title type="html"><![CDATA[HackTheBox - Machine - Voleur]]></title>
+        <id>https://www.sunsetaction.top/2025/11/12/HackTheBoxSeason8 - Voleur</id>
+        <link href="https://www.sunsetaction.top/2025/11/12/HackTheBoxSeason8 - Voleur"/>
+        <link rel="enclosure" href="https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Voleur/image.png" type="image/png"/>
+        <updated>2025-07-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Season8 Voleur https://app.hackthebox.com/machines/Voleur | Window | Medium Machine Information ：As is common in real life Windows pentests, you will ...]]></summary>
+        <author>
+            <name>Sunset</name>
+            <uri>https://www.sunsetaction.top/about</uri>
+        </author>
+        <category label="靶机"/>
+        <category label="HackTheBox"/>
+        <category label="Windows"/>
+        <category label="BloodyAD"/>
+        <category label="NTDS"/>
+        <category label="TargetedKerberoasting"/>
+        <category label="DPAPI"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HackTheBox - Machine - RustyKey]]></title>
+        <id>https://www.sunsetaction.top/2025/11/12/HackTheBoxSeason8 - RustyKey</id>
+        <link href="https://www.sunsetaction.top/2025/11/12/HackTheBoxSeason8 - RustyKey"/>
+        <link rel="enclosure" href="https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20RustyKey/wyyay.jpg" type="image/jpg"/>
+        <updated>2025-06-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Season8 RustyKey https://app.hackthebox.com/machines/RustyKey | Windows | Hard Machine Information：As is common in real life Windows pentests, you wil...]]></summary>
+        <author>
+            <name>Sunset</name>
+            <uri>https://www.sunsetaction.top/about</uri>
+        </author>
+        <category label="靶机"/>
+        <category label="HackTheBox"/>
+        <category label="Windows"/>
+        <category label="RBCD"/>
+        <category label="COMhijack"/>
+        <category label="TimeRoast"/>
+        <category label="RunasCs"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HackMyVM - Krustykrab]]></title>
+        <id>https://www.sunsetaction.top/2025/11/12/HackMyVMKrustykrab</id>
+        <link href="https://www.sunsetaction.top/2025/11/12/HackMyVMKrustykrab"/>
+        <link rel="enclosure" href="https://www.sunsetaction.top/post-images/HackMyVMKrustykrab/image.png" type="image/png"/>
+        <updated>2025-04-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Krustykrab. https://hackmyvm.eu/machines/machine.php?vm=Krustykrab Note：who lives in a pineapple under the sea? 前期踩点 Web 渗透 信息收集 访问 HTTP 服务，Apache 默认页...]]></summary>
+        <author>
+            <name>Sunset</name>
+            <uri>https://www.sunsetaction.top/about</uri>
+        </author>
+        <category label="靶机"/>
+        <category label="Linux靶机"/>
+        <category label="HackMyVM"/>
+        <category label="CTF"/>
+        <category label="越权"/>
+        <category label="路径劫持"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HackMyVM - Soc1]]></title>
         <id>https://www.sunsetaction.top/2025/11/04/HackMyVMSoc1</id>
@@ -1485,24 +1541,6 @@
         <category label="远程串流"/>
         <category label="Sunshine"/>
         <category label="Moonlight"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HackMyVM - Krustykrab]]></title>
-        <id>https://www.sunsetaction.top/2025/04/18/HackMyVMKrustykrab</id>
-        <link href="https://www.sunsetaction.top/2025/04/18/HackMyVMKrustykrab"/>
-        <link rel="enclosure" href="https://www.sunsetaction.top/post-images/HackMyVMKrustykrab/image.png" type="image/png"/>
-        <updated>2025-04-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Krustykrab. https://hackmyvm.eu/machines/machine.php?vm=Krustykrab Note：who lives in a pineapple under the sea? 前期踩点 Web 渗透 信息收集 访问 HTTP 服务，Apache 默认页...]]></summary>
-        <author>
-            <name>Sunset</name>
-            <uri>https://www.sunsetaction.top/about</uri>
-        </author>
-        <category label="靶机"/>
-        <category label="Linux靶机"/>
-        <category label="HackMyVM"/>
-        <category label="CTF"/>
-        <category label="越权"/>
-        <category label="路径劫持"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[春秋云镜 - Hospital]]></title>

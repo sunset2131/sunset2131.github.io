@@ -4,7 +4,7 @@
         <title>Sunset Blog</title>
         <link>https://www.sunsetaction.top</link>
         <description>Sunset的个人博客，记录生活学习。</description>
-        <lastBuildDate>Tue, 04 Nov 2025 17:01:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Nov 2025 16:57:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>zh-CN</language>
@@ -14,6 +14,50 @@
             <link>https://www.sunsetaction.top</link>
         </image>
         <copyright>All rights reserved 2025, Sunset</copyright>
+        <item>
+            <title><![CDATA[HackTheBox - Machine - Voleur]]></title>
+            <link>https://www.sunsetaction.top/2025/11/12/HackTheBoxSeason8 - Voleur</link>
+            <guid isPermaLink="false">https://www.sunsetaction.top/2025/11/12/HackTheBoxSeason8 - Voleur</guid>
+            <pubDate>Mon, 07 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Season8 Voleur https://app.hackthebox.com/machines/Voleur | Window | Medium Machine Information ：As is common in real life Windows pentests, you will ...]]></description>
+            <category>靶机</category>
+            <category>HackTheBox</category>
+            <category>Windows</category>
+            <category>BloodyAD</category>
+            <category>NTDS</category>
+            <category>TargetedKerberoasting</category>
+            <category>DPAPI</category>
+            <enclosure url="https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Voleur/image.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[HackTheBox - Machine - RustyKey]]></title>
+            <link>https://www.sunsetaction.top/2025/11/12/HackTheBoxSeason8 - RustyKey</link>
+            <guid isPermaLink="false">https://www.sunsetaction.top/2025/11/12/HackTheBoxSeason8 - RustyKey</guid>
+            <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Season8 RustyKey https://app.hackthebox.com/machines/RustyKey | Windows | Hard Machine Information：As is common in real life Windows pentests, you wil...]]></description>
+            <category>靶机</category>
+            <category>HackTheBox</category>
+            <category>Windows</category>
+            <category>RBCD</category>
+            <category>COMhijack</category>
+            <category>TimeRoast</category>
+            <category>RunasCs</category>
+            <enclosure url="https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20RustyKey/wyyay.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HackMyVM - Krustykrab]]></title>
+            <link>https://www.sunsetaction.top/2025/11/12/HackMyVMKrustykrab</link>
+            <guid isPermaLink="false">https://www.sunsetaction.top/2025/11/12/HackMyVMKrustykrab</guid>
+            <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Krustykrab. https://hackmyvm.eu/machines/machine.php?vm=Krustykrab Note：who lives in a pineapple under the sea? 前期踩点 Web 渗透 信息收集 访问 HTTP 服务，Apache 默认页...]]></description>
+            <category>靶机</category>
+            <category>Linux靶机</category>
+            <category>HackMyVM</category>
+            <category>CTF</category>
+            <category>越权</category>
+            <category>路径劫持</category>
+            <enclosure url="https://www.sunsetaction.top/post-images/HackMyVMKrustykrab/image.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[HackMyVM - Soc1]]></title>
             <link>https://www.sunsetaction.top/2025/11/04/HackMyVMSoc1</link>
@@ -1149,20 +1193,6 @@
             <category>Sunshine</category>
             <category>Moonlight</category>
             <enclosure url="https://www.sunsetaction.top/post-images/Sunshine%20+%20moonlight%20息屏串流方案/image.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HackMyVM - Krustykrab]]></title>
-            <link>https://www.sunsetaction.top/2025/04/18/HackMyVMKrustykrab</link>
-            <guid isPermaLink="false">https://www.sunsetaction.top/2025/04/18/HackMyVMKrustykrab</guid>
-            <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Krustykrab. https://hackmyvm.eu/machines/machine.php?vm=Krustykrab Note：who lives in a pineapple under the sea? 前期踩点 Web 渗透 信息收集 访问 HTTP 服务，Apache 默认页...]]></description>
-            <category>靶机</category>
-            <category>Linux靶机</category>
-            <category>HackMyVM</category>
-            <category>CTF</category>
-            <category>越权</category>
-            <category>路径劫持</category>
-            <enclosure url="https://www.sunsetaction.top/post-images/HackMyVMKrustykrab/image.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[春秋云镜 - Hospital]]></title>

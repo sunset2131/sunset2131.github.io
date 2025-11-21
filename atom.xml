@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sunsetaction.top</id>
     <title>Sunset Blog</title>
-    <updated>2025-11-14T04:43:22.396Z</updated>
+    <updated>2025-11-21T08:57:11.679Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Sunset</name>
@@ -14,6 +14,22 @@
     <logo>https://www.sunsetaction.top/images/logo.png</logo>
     <icon>https://www.sunsetaction.top/images/Logo.ico</icon>
     <rights>All rights reserved 2025, Sunset</rights>
+    <entry>
+        <title type="html"><![CDATA[HackMyVM - Hunter]]></title>
+        <id>https://www.sunsetaction.top/2025/11/21/HackMyVMHunter</id>
+        <link href="https://www.sunsetaction.top/2025/11/21/HackMyVMHunter"/>
+        <link rel="enclosure" href="https://www.sunsetaction.top/post-images/HackMyVMHunter/image.png" type="image/png"/>
+        <updated>2025-11-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hunter https://hackmyvm.eu/machines/machine.php?vm=Hunter Recon PortScan 枚举 8080 端口 目录扫描 beacon 返回代码 204：无内容。服务器成功处理，但未返回内容。在未更新网页的情况下，可确保浏览器继续显示当前文档 ...]]></summary>
+        <author>
+            <name>Sunset</name>
+            <uri>https://www.sunsetaction.top/about</uri>
+        </author>
+        <category label="靶机"/>
+        <category label="HackMyVM"/>
+        <category label="Linux"/>
+        <category label="rkhunter"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HackTheBox - Machine - Voleur]]></title>
         <id>https://www.sunsetaction.top/2025/11/12/HackTheBoxSeason8 - Voleur</id>
@@ -82,7 +98,7 @@
             <uri>https://www.sunsetaction.top/about</uri>
         </author>
         <category label="靶机"/>
-        <category label="TheHackersLabs"/>
+        <category label="HackMyVM"/>
         <category label="Linux"/>
         <category label="FUZZ"/>
         <category label="Jenkins"/>

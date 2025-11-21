@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://www.sunsetaction.top/2025/11/21/HackMyVMHunter",
+            "content_html": "Hunter https://hackmyvm.eu/machines/machine.php?vm=Hunter Recon PortScan 枚举 8080 端口 目录扫描 beacon 返回代码 204：无内容。服务器成功处理，但未返回内容。在未更新网页的情况下，可确保浏览器继续显示当前文档 ...",
+            "url": "https://www.sunsetaction.top/2025/11/21/HackMyVMHunter",
+            "title": "HackMyVM - Hunter",
+            "image": "https://www.sunsetaction.top/post-images/HackMyVMHunter/image.png",
+            "date_modified": "2025-11-21T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "HackMyVM",
+                "Linux",
+                "rkhunter"
+            ]
+        },
+        {
             "id": "https://www.sunsetaction.top/2025/11/12/HackTheBoxSeason8 - Voleur",
             "content_html": "Season8 Voleur https://app.hackthebox.com/machines/Voleur | Window | Medium Machine Information ：As is common in real life Windows pentests, you will ...",
             "url": "https://www.sunsetaction.top/2025/11/12/HackTheBoxSeason8 - Voleur",
@@ -85,7 +103,7 @@
             },
             "tags": [
                 "靶机",
-                "TheHackersLabs",
+                "HackMyVM",
                 "Linux",
                 "FUZZ",
                 "Jenkins",

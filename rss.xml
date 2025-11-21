@@ -4,7 +4,7 @@
         <title>Sunset Blog</title>
         <link>https://www.sunsetaction.top</link>
         <description>Sunset的个人博客，记录生活学习。</description>
-        <lastBuildDate>Fri, 14 Nov 2025 04:43:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Nov 2025 08:57:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>zh-CN</language>
@@ -14,6 +14,18 @@
             <link>https://www.sunsetaction.top</link>
         </image>
         <copyright>All rights reserved 2025, Sunset</copyright>
+        <item>
+            <title><![CDATA[HackMyVM - Hunter]]></title>
+            <link>https://www.sunsetaction.top/2025/11/21/HackMyVMHunter</link>
+            <guid isPermaLink="false">https://www.sunsetaction.top/2025/11/21/HackMyVMHunter</guid>
+            <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hunter https://hackmyvm.eu/machines/machine.php?vm=Hunter Recon PortScan 枚举 8080 端口 目录扫描 beacon 返回代码 204：无内容。服务器成功处理，但未返回内容。在未更新网页的情况下，可确保浏览器继续显示当前文档 ...]]></description>
+            <category>靶机</category>
+            <category>HackMyVM</category>
+            <category>Linux</category>
+            <category>rkhunter</category>
+            <enclosure url="https://www.sunsetaction.top/post-images/HackMyVMHunter/image.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[HackTheBox - Machine - Voleur]]></title>
             <link>https://www.sunsetaction.top/2025/11/12/HackTheBoxSeason8 - Voleur</link>
@@ -65,7 +77,7 @@
             <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Soc1 https://hackmyvm.eu/machines/machine.php?vm=Soc1 Recon PortScan 开放了多个 Web 服务 (Apache, Splunk, Jenkins) 和一个数据库服务 (MongoDB) 枚举 web 首先还是看 WEB 服务，但是貌...]]></description>
             <category>靶机</category>
-            <category>TheHackersLabs</category>
+            <category>HackMyVM</category>
             <category>Linux</category>
             <category>FUZZ</category>
             <category>Jenkins</category>

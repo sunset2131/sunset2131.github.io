@@ -11,6 +11,43 @@
     },
     "items": [
         {
+            "id": "https://www.sunsetaction.top/2025/11/24/群U靶机Yibasuo",
+            "content_html": "Yibasuo Recon PortScan 端口扫描，能发现有 6200，21 端口，估计有 vsftp 笑脸漏洞 FTP 连接 FTP，提示 vsFTPd 2.3.4 ，刚好是笑脸漏洞的版本。还能拿到一个 creds.txt 。 这里尝试打笑脸漏洞，但是触发漏洞后端口依旧是 filtered ，...",
+            "url": "https://www.sunsetaction.top/2025/11/24/群U靶机Yibasuo",
+            "title": "群U靶机 - Yibasuo",
+            "image": "https://www.sunsetaction.top/post-images/群U靶机Yibasuo/image.png",
+            "date_modified": "2025-11-22T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "群U靶机",
+                "Linux",
+                "vsftpd",
+                "CVE-2011-2523"
+            ]
+        },
+        {
+            "id": "https://www.sunsetaction.top/2025/11/24/群U靶机SudoHome_sunset",
+            "content_html": "SudoHome Recon PortScan 22/tcp: SSH OpenSSH 8.4p1 (Debian)。这是一个比较新的版本，直接利用漏洞的可能性较低。通常是作为获取 Shell 后的持久化访问，或者在我们获得凭据后进行登录的入口。 25/tcp: SMTP Postfix smtpd...",
+            "url": "https://www.sunsetaction.top/2025/11/24/群U靶机SudoHome_sunset",
+            "title": "群U靶机 - SudoHome",
+            "image": "https://www.sunsetaction.top/post-images/群U靶机SudoHome_sunset/image.png",
+            "date_modified": "2025-11-23T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "群U靶机",
+                "Linux",
+                "sudo"
+            ]
+        },
+        {
             "id": "https://www.sunsetaction.top/2025/11/21/HackMyVMHunter",
             "content_html": "Hunter https://hackmyvm.eu/machines/machine.php?vm=Hunter Recon PortScan 枚举 8080 端口 目录扫描 beacon 返回代码 204：无内容。服务器成功处理，但未返回内容。在未更新网页的情况下，可确保浏览器继续显示当前文档 ...",
             "url": "https://www.sunsetaction.top/2025/11/21/HackMyVMHunter",

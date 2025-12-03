@@ -4,7 +4,7 @@
         <title>Sunset Blog</title>
         <link>https://www.sunsetaction.top</link>
         <description>Sunset的个人博客，记录生活学习。</description>
-        <lastBuildDate>Tue, 25 Nov 2025 03:35:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Dec 2025 06:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>zh-CN</language>
@@ -14,6 +14,18 @@
             <link>https://www.sunsetaction.top</link>
         </image>
         <copyright>All rights reserved 2025, Sunset</copyright>
+        <item>
+            <title><![CDATA[HackMyVM - Skid]]></title>
+            <link>https://www.sunsetaction.top/2025/12/03/HackMyVMSkid</link>
+            <guid isPermaLink="false">https://www.sunsetaction.top/2025/12/03/HackMyVMSkid</guid>
+            <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Skid. https://hackmyvm.eu/machines/machine.php?vm=Skid Recon 端口扫描 5000 端口是 HTTP，对其进行目录扫描，能找到一些有趣的目录 命令注入 看一下scan 的源码，可以看到需要 target 参数 测试命令注入，可以看到回显了 w...]]></description>
+            <category>靶机</category>
+            <category>HackMyVM</category>
+            <category>Linux</category>
+            <category>CommandInjuction</category>
+            <enclosure url="https://www.sunsetaction.top/post-images/HackMyVMSkid/image.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[群U靶机 - Yibasuo]]></title>
             <link>https://www.sunsetaction.top/2025/11/24/群U靶机Yibasuo</link>

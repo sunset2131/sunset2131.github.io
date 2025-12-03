@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sunsetaction.top</id>
     <title>Sunset Blog</title>
-    <updated>2025-12-03T06:34:09.569Z</updated>
+    <updated>2025-12-03T14:46:53.944Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Sunset</name>
@@ -14,6 +14,23 @@
     <logo>https://www.sunsetaction.top/images/logo.png</logo>
     <icon>https://www.sunsetaction.top/images/Logo.ico</icon>
     <rights>All rights reserved 2025, Sunset</rights>
+    <entry>
+        <title type="html"><![CDATA[HackMyVM - Skid]]></title>
+        <id>https://www.sunsetaction.top/2025/12/03/HackMyVMSkid</id>
+        <link href="https://www.sunsetaction.top/2025/12/03/HackMyVMSkid"/>
+        <link rel="enclosure" href="https://www.sunsetaction.top/post-images/HackMyVMSkid/image.png" type="image/png"/>
+        <updated>2025-12-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Skid. https://hackmyvm.eu/machines/machine.php?vm=Skid Recon 端口扫描 5000 端口是 HTTP，对其进行目录扫描，能找到一些有趣的目录 命令注入 看一下scan 的源码，可以看到需要 target 参数 测试命令注入，可以看到回显了 w...]]></summary>
+        <author>
+            <name>Sunset</name>
+            <uri>https://www.sunsetaction.top/about</uri>
+        </author>
+        <category label="靶机"/>
+        <category label="HackMyVM"/>
+        <category label="Linux"/>
+        <category label="CommandInjuction"/>
+        <category label="Nmap"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[群U靶机 - Yibasuo]]></title>
         <id>https://www.sunsetaction.top/2025/11/24/群U靶机Yibasuo</id>

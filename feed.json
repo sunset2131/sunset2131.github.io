@@ -11,6 +11,25 @@
     },
     "items": [
         {
+            "id": "https://www.sunsetaction.top/2025/12/03/HackMyVMSkid",
+            "content_html": "Skid. https://hackmyvm.eu/machines/machine.php?vm=Skid Recon 端口扫描 5000 端口是 HTTP，对其进行目录扫描，能找到一些有趣的目录 命令注入 看一下scan 的源码，可以看到需要 target 参数 测试命令注入，可以看到回显了 w...",
+            "url": "https://www.sunsetaction.top/2025/12/03/HackMyVMSkid",
+            "title": "HackMyVM - Skid",
+            "image": "https://www.sunsetaction.top/post-images/HackMyVMSkid/image.png",
+            "date_modified": "2025-12-03T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "HackMyVM",
+                "Linux",
+                "CommandInjuction",
+                "Nmap"
+            ]
+        },
+        {
             "id": "https://www.sunsetaction.top/2025/11/24/群U靶机Yibasuo",
             "content_html": "Yibasuo Recon PortScan 端口扫描，能发现有 6200，21 端口，估计有 vsftp 笑脸漏洞 FTP 连接 FTP，提示 vsFTPd 2.3.4 ，刚好是笑脸漏洞的版本。还能拿到一个 creds.txt 。 这里尝试打笑脸漏洞，但是触发漏洞后端口依旧是 filtered ，...",
             "url": "https://www.sunsetaction.top/2025/11/24/群U靶机Yibasuo",

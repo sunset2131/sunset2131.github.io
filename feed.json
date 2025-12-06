@@ -11,6 +11,23 @@
     },
     "items": [
         {
+            "id": "https://www.sunsetaction.top/2025/12/06/TheHackersLabsKoi Stealer",
+            "content_html": "Koi Stealer https://labs.thehackerslabs.com/machine/153 nálisis forense de tráfico de red (PCAP) para la reconstrucción del flujo de ataque e infecció...",
+            "url": "https://www.sunsetaction.top/2025/12/06/TheHackersLabsKoi Stealer",
+            "title": "TheHackersLabs - Koi Stealer",
+            "image": "https://www.sunsetaction.top/post-images/TheHackersLabsKoi%20Stealer/image.png",
+            "date_modified": "2025-12-06T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "TheHackersLabs",
+                "Pacp"
+            ]
+        },
+        {
             "id": "https://www.sunsetaction.top/2025/12/03/HackMyVMSkid",
             "content_html": "Skid. https://hackmyvm.eu/machines/machine.php?vm=Skid Recon 端口扫描 5000 端口是 HTTP，对其进行目录扫描，能找到一些有趣的目录 命令注入 看一下scan 的源码，可以看到需要 target 参数 测试命令注入，可以看到回显了 w...",
             "url": "https://www.sunsetaction.top/2025/12/03/HackMyVMSkid",

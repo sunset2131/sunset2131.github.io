@@ -4,7 +4,7 @@
         <title>Sunset Blog</title>
         <link>https://www.sunsetaction.top</link>
         <description>Sunset的个人博客，记录生活学习。</description>
-        <lastBuildDate>Sat, 13 Dec 2025 06:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Dec 2025 09:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>zh-CN</language>
@@ -14,6 +14,19 @@
             <link>https://www.sunsetaction.top</link>
         </image>
         <copyright>All rights reserved 2025, Sunset</copyright>
+        <item>
+            <title><![CDATA[HackMyVM - Realsaga]]></title>
+            <link>https://www.sunsetaction.top/2025/12/16/HackMyVMRealsaga</link>
+            <guid isPermaLink="false">https://www.sunsetaction.top/2025/12/16/HackMyVMRealsaga</guid>
+            <pubDate>Tue, 16 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Realsaga. https://hackmyvm.eu/machines/machine.php?vm=Realsaga Recon 端口扫描 枚举 HTTP 服务 操作系统/Web服务器: Ubuntu Linux 上的 Apache 2.4.29。 CMS (内容管理系统): WordPre...]]></description>
+            <category>靶机</category>
+            <category>Linux</category>
+            <category>CVE-2020-35234</category>
+            <category>WordPress</category>
+            <category>Docker</category>
+            <enclosure url="https://www.sunsetaction.top/post-images/HackMyVMRealsaga/image.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[TheHackersLabs - Koi Stealer]]></title>
             <link>https://www.sunsetaction.top/2025/12/06/TheHackersLabsKoi Stealer</link>

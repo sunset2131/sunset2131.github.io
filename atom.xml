@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sunsetaction.top</id>
     <title>Sunset Blog</title>
-    <updated>2025-12-16T09:22:57.050Z</updated>
+    <updated>2025-12-24T14:12:10.150Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Sunset</name>
@@ -30,6 +30,22 @@
         <category label="CVE-2020-35234"/>
         <category label="WordPress"/>
         <category label="Docker"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine - victorique]]></title>
+        <id>https://www.sunsetaction.top/2025/12/13/Machinevictorique</id>
+        <link href="https://www.sunsetaction.top/2025/12/13/Machinevictorique"/>
+        <link rel="enclosure" href="https://www.sunsetaction.top/post-images/Machinevictorique/image.png" type="image/png"/>
+        <updated>2025-12-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[victorique Recon PortScan 端口扫描 Fuzz 访问 HTTP 服务，提示要通过域名访问，添加域名到 hosts 文件 能发现存在登录框，但是没有任何账户密码，所以暂时不进行爆破 进行子域名爆破，得到子域名 gifts 访问后得到一组凭据 ookami:GoS1Ck 尝试在登...]]></summary>
+        <author>
+            <name>Sunset</name>
+            <uri>https://www.sunsetaction.top/about</uri>
+        </author>
+        <category label="靶机"/>
+        <category label="Linux"/>
+        <category label="Fuzz"/>
+        <category label="ASCII"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[TheHackersLabs - Koi Stealer]]></title>

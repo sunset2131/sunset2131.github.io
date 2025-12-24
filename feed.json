@@ -30,6 +30,24 @@
             ]
         },
         {
+            "id": "https://www.sunsetaction.top/2025/12/13/Machinevictorique",
+            "content_html": "victorique Recon PortScan 端口扫描 Fuzz 访问 HTTP 服务，提示要通过域名访问，添加域名到 hosts 文件 能发现存在登录框，但是没有任何账户密码，所以暂时不进行爆破 进行子域名爆破，得到子域名 gifts 访问后得到一组凭据 ookami:GoS1Ck 尝试在登...",
+            "url": "https://www.sunsetaction.top/2025/12/13/Machinevictorique",
+            "title": "Machine - victorique",
+            "image": "https://www.sunsetaction.top/post-images/Machinevictorique/image.png",
+            "date_modified": "2025-12-13T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "Linux",
+                "Fuzz",
+                "ASCII"
+            ]
+        },
+        {
             "id": "https://www.sunsetaction.top/2025/12/06/TheHackersLabsKoi Stealer",
             "content_html": "Koi Stealer https://labs.thehackerslabs.com/machine/153 nálisis forense de tráfico de red (PCAP) para la reconstrucción del flujo de ataque e infecció...",
             "url": "https://www.sunsetaction.top/2025/12/06/TheHackersLabsKoi Stealer",

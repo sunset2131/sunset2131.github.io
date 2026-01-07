@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sunsetaction.top</id>
     <title>Sunset Blog</title>
-    <updated>2025-12-24T14:12:10.150Z</updated>
+    <updated>2026-01-07T08:14:09.003Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Sunset</name>
@@ -13,7 +13,7 @@
     <subtitle>Sunset的个人博客，记录生活学习。</subtitle>
     <logo>https://www.sunsetaction.top/images/logo.png</logo>
     <icon>https://www.sunsetaction.top/images/Logo.ico</icon>
-    <rights>All rights reserved 2025, Sunset</rights>
+    <rights>All rights reserved 2026, Sunset</rights>
     <entry>
         <title type="html"><![CDATA[HackMyVM - Realsaga]]></title>
         <id>https://www.sunsetaction.top/2025/12/16/HackMyVMRealsaga</id>

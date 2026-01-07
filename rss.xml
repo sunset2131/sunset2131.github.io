@@ -4,7 +4,7 @@
         <title>Sunset Blog</title>
         <link>https://www.sunsetaction.top</link>
         <description>Sunset的个人博客，记录生活学习。</description>
-        <lastBuildDate>Wed, 24 Dec 2025 14:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jan 2026 08:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>zh-CN</language>
@@ -13,7 +13,7 @@
             <url>https://www.sunsetaction.top/images/logo.png</url>
             <link>https://www.sunsetaction.top</link>
         </image>
-        <copyright>All rights reserved 2025, Sunset</copyright>
+        <copyright>All rights reserved 2026, Sunset</copyright>
         <item>
             <title><![CDATA[HackMyVM - Realsaga]]></title>
             <link>https://www.sunsetaction.top/2025/12/16/HackMyVMRealsaga</link>

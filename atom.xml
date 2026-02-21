@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sunsetaction.top</id>
     <title>Sunset Blog</title>
-    <updated>2026-01-07T08:14:09.003Z</updated>
+    <updated>2026-02-21T16:04:23.183Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Sunset</name>
@@ -14,6 +14,22 @@
     <logo>https://www.sunsetaction.top/images/logo.png</logo>
     <icon>https://www.sunsetaction.top/images/Logo.ico</icon>
     <rights>All rights reserved 2026, Sunset</rights>
+    <entry>
+        <title type="html"><![CDATA[Sunshine + moonlight 息屏串流方案]]></title>
+        <id>https://www.sunsetaction.top/2026/02/21/Sunshine + moonlight 息屏串流方案</id>
+        <link href="https://www.sunsetaction.top/2026/02/21/Sunshine + moonlight 息屏串流方案"/>
+        <link rel="enclosure" href="https://www.sunsetaction.top/post-images/Sunshine%20+%20moonlight%20息屏串流方案/image.png" type="image/png"/>
+        <updated>2025-04-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sunshine + moonlight 息屏串流方案 前置 最近想玩的 Gal 有点多，但是安卓上的模拟器并没有完全够用，想起来之前有使用过本地串流，所以想着是否能使用串流来玩 Gal。 这样为什么不直接串流玩呢？因为串流的时候和显示器是同步的，也就是你手机串流的时候显示器屏幕也是跟着动，那你在床...]]></summary>
+        <author>
+            <name>Sunset</name>
+            <uri>https://www.sunsetaction.top/about</uri>
+        </author>
+        <category label="杂项"/>
+        <category label="远程串流"/>
+        <category label="Sunshine"/>
+        <category label="Moonlight"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HackMyVM - Realsaga]]></title>
         <id>https://www.sunsetaction.top/2025/12/16/HackMyVMRealsaga</id>
@@ -1639,22 +1655,6 @@
         <category label="Linux靶机"/>
         <category label="HackMyVM"/>
         <category label="SQL注入"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunshine + moonlight 息屏串流方案]]></title>
-        <id>https://www.sunsetaction.top/2025/04/18/Sunshine + moonlight 息屏串流方案</id>
-        <link href="https://www.sunsetaction.top/2025/04/18/Sunshine + moonlight 息屏串流方案"/>
-        <link rel="enclosure" href="https://www.sunsetaction.top/post-images/Sunshine%20+%20moonlight%20息屏串流方案/image.png" type="image/png"/>
-        <updated>2025-04-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sunshine + moonlight 息屏串流方案 前置 最近想玩的 Gal 有点多，但是安卓上的模拟器并没有完全够用，想起来之前有使用过本地串流，所以想着是否能使用串流来玩 Gal。 这样为什么不直接串流玩呢？因为串流的时候和显示器是同步的，也就是你手机串流的时候显示器屏幕也是跟着动，那你在床...]]></summary>
-        <author>
-            <name>Sunset</name>
-            <uri>https://www.sunsetaction.top/about</uri>
-        </author>
-        <category label="杂项"/>
-        <category label="远程串流"/>
-        <category label="Sunshine"/>
-        <category label="Moonlight"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[春秋云镜 - Hospital]]></title>

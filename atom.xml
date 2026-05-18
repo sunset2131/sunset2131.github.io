@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sunsetaction.top</id>
     <title>Sunset Blog</title>
-    <updated>2026-05-18T11:23:13.007Z</updated>
+    <updated>2026-05-18T12:11:08.456Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Sunset</name>
@@ -46,21 +46,6 @@
         <category label="Windows"/>
         <category label="SilverTicket"/>
         <category label="MSSQL"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HackTheBox - Machine -Titanic]]></title>
-        <id>https://www.sunsetaction.top/2026/05/132026/HackTheBoxSeason7-Titanic</id>
-        <link href="https://www.sunsetaction.top/2026/05/132026/HackTheBoxSeason7-Titanic"/>
-        <link rel="enclosure" href="https://www.sunsetaction.top/post-images/HackTheBoxSeason7-Titanic/image.png" type="image/png"/>
-        <updated>2025-04-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Season7 Titanic https://app.hackthebox.com/competitive/7/overview | esay | 漏洞有点难找，我觉得中等左右 前期踩点 子域名查询，发现dev，添加到hosts里面去 访问dev ，gitea服务 访问HTTP服务，是关于泰塔尼克...]]></summary>
-        <author>
-            <name>Sunset</name>
-            <uri>https://www.sunsetaction.top/about</uri>
-        </author>
-        <category label="靶机"/>
-        <category label="HackTheBox"/>
-        <category label="Linux靶机"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[HackTheBox - Machine - Outbound]]></title>
@@ -135,6 +120,21 @@
         <category label="ndsudo"/>
         <category label="xwiki"/>
         <category label="CVE-2024-24893"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HackTheBox - Machine -Titanic]]></title>
+        <id>https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-Titanic</id>
+        <link href="https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-Titanic"/>
+        <link rel="enclosure" href="https://www.sunsetaction.top/post-images/HackTheBoxSeason7-Titanic/image.png" type="image/png"/>
+        <updated>2025-04-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Season7 Titanic https://app.hackthebox.com/competitive/7/overview | esay | 漏洞有点难找，我觉得中等左右 前期踩点 子域名查询，发现dev，添加到hosts里面去 访问dev ，gitea服务 访问HTTP服务，是关于泰塔尼克...]]></summary>
+        <author>
+            <name>Sunset</name>
+            <uri>https://www.sunsetaction.top/about</uri>
+        </author>
+        <category label="靶机"/>
+        <category label="HackTheBox"/>
+        <category label="Linux靶机"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[HackTheBox - Machine -TheFrizz]]></title>

@@ -48,23 +48,6 @@
             ]
         },
         {
-            "id": "https://www.sunsetaction.top/2026/05/132026/HackTheBoxSeason7-Titanic",
-            "content_html": "Season7 Titanic https://app.hackthebox.com/competitive/7/overview | esay | 漏洞有点难找，我觉得中等左右 前期踩点 子域名查询，发现dev，添加到hosts里面去 访问dev ，gitea服务 访问HTTP服务，是关于泰塔尼克...",
-            "url": "https://www.sunsetaction.top/2026/05/132026/HackTheBoxSeason7-Titanic",
-            "title": "HackTheBox - Machine -Titanic",
-            "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason7-Titanic/image.png",
-            "date_modified": "2025-04-04T00:00:00.000Z",
-            "author": {
-                "name": "Sunset",
-                "url": "https://www.sunsetaction.top/about"
-            },
-            "tags": [
-                "靶机",
-                "HackTheBox",
-                "Linux靶机"
-            ]
-        },
-        {
             "id": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Outbound",
             "content_html": "Season8 Outbound https://app.hackthebox.com/machines/672 | Linux | Easy Machine Information：As is common in real life pentests, you will start the Out...",
             "url": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Outbound",
@@ -144,6 +127,23 @@
                 "ndsudo",
                 "xwiki",
                 "CVE-2024-24893"
+            ]
+        },
+        {
+            "id": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-Titanic",
+            "content_html": "Season7 Titanic https://app.hackthebox.com/competitive/7/overview | esay | 漏洞有点难找，我觉得中等左右 前期踩点 子域名查询，发现dev，添加到hosts里面去 访问dev ，gitea服务 访问HTTP服务，是关于泰塔尼克...",
+            "url": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-Titanic",
+            "title": "HackTheBox - Machine -Titanic",
+            "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason7-Titanic/image.png",
+            "date_modified": "2025-04-04T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "HackTheBox",
+                "Linux靶机"
             ]
         },
         {

@@ -130,25 +130,6 @@
             ]
         },
         {
-            "id": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-WhiteRabbit",
-            "content_html": "Season7 WhiteRabbit https://app.hackthebox.com/competitive/7/overview | Insane 前期踩点 将 whiterabbit.htb 写入 hosts 文件 访问 HTTP 服务，caddy 搭建的 web 再爆一下子域名，爆出来...",
-            "url": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-WhiteRabbit",
-            "title": "HackTheBox - Season7-WhiteRabbit",
-            "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason7-WhiteRabbit/image.png",
-            "date_modified": "2025-04-07T00:00:00.000Z",
-            "author": {
-                "name": "Sunset",
-                "url": "https://www.sunsetaction.top/about"
-            },
-            "tags": [
-                "靶机",
-                "HackTheBox",
-                "Linux靶机",
-                "逆向分析",
-                "SQL注入"
-            ]
-        },
-        {
             "id": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-Titanic",
             "content_html": "Season7 Titanic https://app.hackthebox.com/competitive/7/overview | esay | 漏洞有点难找，我觉得中等左右 前期踩点 子域名查询，发现dev，添加到hosts里面去 访问dev ，gitea服务 访问HTTP服务，是关于泰塔尼克...",
             "url": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-Titanic",

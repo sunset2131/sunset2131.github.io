@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sunsetaction.top</id>
     <title>Sunset Blog</title>
-    <updated>2026-05-18T11:09:19.691Z</updated>
+    <updated>2026-05-18T11:22:07.150Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Sunset</name>
@@ -120,23 +120,6 @@
         <category label="ndsudo"/>
         <category label="xwiki"/>
         <category label="CVE-2024-24893"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HackTheBox - Season7-WhiteRabbit]]></title>
-        <id>https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-WhiteRabbit</id>
-        <link href="https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-WhiteRabbit"/>
-        <link rel="enclosure" href="https://www.sunsetaction.top/post-images/HackTheBoxSeason7-WhiteRabbit/image.png" type="image/png"/>
-        <updated>2025-04-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Season7 WhiteRabbit https://app.hackthebox.com/competitive/7/overview | Insane 前期踩点 将 whiterabbit.htb 写入 hosts 文件 访问 HTTP 服务，caddy 搭建的 web 再爆一下子域名，爆出来...]]></summary>
-        <author>
-            <name>Sunset</name>
-            <uri>https://www.sunsetaction.top/about</uri>
-        </author>
-        <category label="靶机"/>
-        <category label="HackTheBox"/>
-        <category label="Linux靶机"/>
-        <category label="逆向分析"/>
-        <category label="SQL注入"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[HackTheBox - Season7-Titanic]]></title>

@@ -4,7 +4,7 @@
         <title>Sunset Blog</title>
         <link>https://www.sunsetaction.top</link>
         <description>Sunset的个人博客，记录生活学习。</description>
-        <lastBuildDate>Mon, 18 May 2026 11:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 11:23:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>zh-CN</language>
@@ -27,7 +27,7 @@
             <enclosure url="https://www.sunsetaction.top/post-images/群U靶机-Meltdown2/image.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[HackTheBox - Season9 - Signed]]></title>
+            <title><![CDATA[HackTheBox - Machine - Signed]]></title>
             <link>https://www.sunsetaction.top/2026/05/14/HackTheBoxSeason8 - Signed</link>
             <guid isPermaLink="false">https://www.sunsetaction.top/2026/05/14/HackTheBoxSeason8 - Signed</guid>
             <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
@@ -40,7 +40,18 @@
             <enclosure url="https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Signed/image.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[HackTheBox - Season8 - Outbound]]></title>
+            <title><![CDATA[HackTheBox - Machine -Titanic]]></title>
+            <link>https://www.sunsetaction.top/2026/05/132026/HackTheBoxSeason7-Titanic</link>
+            <guid isPermaLink="false">https://www.sunsetaction.top/2026/05/132026/HackTheBoxSeason7-Titanic</guid>
+            <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Season7 Titanic https://app.hackthebox.com/competitive/7/overview | esay | 漏洞有点难找，我觉得中等左右 前期踩点 子域名查询，发现dev，添加到hosts里面去 访问dev ，gitea服务 访问HTTP服务，是关于泰塔尼克...]]></description>
+            <category>靶机</category>
+            <category>HackTheBox</category>
+            <category>Linux靶机</category>
+            <enclosure url="https://www.sunsetaction.top/post-images/HackTheBoxSeason7-Titanic/image.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[HackTheBox - Machine - Outbound]]></title>
             <link>https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Outbound</link>
             <guid isPermaLink="false">https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Outbound</guid>
             <pubDate>Sun, 13 Jul 2025 00:00:00 GMT</pubDate>
@@ -53,7 +64,7 @@
             <enclosure url="https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Outbound/image.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[HackTheBox - Season8 - Mirage]]></title>
+            <title><![CDATA[HackTheBox - Machine - Mirage]]></title>
             <link>https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Mirage</link>
             <guid isPermaLink="false">https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Mirage</guid>
             <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
@@ -68,7 +79,7 @@
             <enclosure url="https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Mirage/image.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[HackTheBox - Season8 - Era]]></title>
+            <title><![CDATA[HackTheBox - Machine - Era]]></title>
             <link>https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Era</link>
             <guid isPermaLink="false">https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Era</guid>
             <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
@@ -83,7 +94,7 @@
             <enclosure url="https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Era/image.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[HackTheBox - Season8 - Editor]]></title>
+            <title><![CDATA[HackTheBox - Machine - Editor]]></title>
             <link>https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Editor</link>
             <guid isPermaLink="false">https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Editor</guid>
             <pubDate>Sun, 03 Aug 2025 00:00:00 GMT</pubDate>
@@ -96,17 +107,6 @@
             <category>xwiki</category>
             <category>CVE-2024-24893</category>
             <enclosure url="https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Editor/image.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HackTheBox - Season7-Titanic]]></title>
-            <link>https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-Titanic</link>
-            <guid isPermaLink="false">https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-Titanic</guid>
-            <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Season7 Titanic https://app.hackthebox.com/competitive/7/overview | esay | 漏洞有点难找，我觉得中等左右 前期踩点 子域名查询，发现dev，添加到hosts里面去 访问dev ，gitea服务 访问HTTP服务，是关于泰塔尼克...]]></description>
-            <category>靶机</category>
-            <category>HackTheBox</category>
-            <category>Linux靶机</category>
-            <enclosure url="https://www.sunsetaction.top/post-images/HackTheBoxSeason7-Titanic/image.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[HackTheBox - Machine -TheFrizz]]></title>
@@ -630,7 +630,7 @@
             <category>Linux</category>
             <category>MFA</category>
             <category>ffuf</category>
-            <category>Python</category>
+            <category>python</category>
             <enclosure url="https://www.sunsetaction.top/post-images/TheHackersLabsShadowGate/image.png" length="0" type="image/png"/>
         </item>
         <item>

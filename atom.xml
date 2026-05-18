@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sunsetaction.top</id>
     <title>Sunset Blog</title>
-    <updated>2026-05-18T11:22:07.150Z</updated>
+    <updated>2026-05-18T11:23:13.007Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Sunset</name>
@@ -31,7 +31,7 @@
         <category label="smb"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HackTheBox - Season9 - Signed]]></title>
+        <title type="html"><![CDATA[HackTheBox - Machine - Signed]]></title>
         <id>https://www.sunsetaction.top/2026/05/14/HackTheBoxSeason8 - Signed</id>
         <link href="https://www.sunsetaction.top/2026/05/14/HackTheBoxSeason8 - Signed"/>
         <link rel="enclosure" href="https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Signed/image.png" type="image/png"/>
@@ -48,7 +48,22 @@
         <category label="MSSQL"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HackTheBox - Season8 - Outbound]]></title>
+        <title type="html"><![CDATA[HackTheBox - Machine -Titanic]]></title>
+        <id>https://www.sunsetaction.top/2026/05/132026/HackTheBoxSeason7-Titanic</id>
+        <link href="https://www.sunsetaction.top/2026/05/132026/HackTheBoxSeason7-Titanic"/>
+        <link rel="enclosure" href="https://www.sunsetaction.top/post-images/HackTheBoxSeason7-Titanic/image.png" type="image/png"/>
+        <updated>2025-04-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Season7 Titanic https://app.hackthebox.com/competitive/7/overview | esay | 漏洞有点难找，我觉得中等左右 前期踩点 子域名查询，发现dev，添加到hosts里面去 访问dev ，gitea服务 访问HTTP服务，是关于泰塔尼克...]]></summary>
+        <author>
+            <name>Sunset</name>
+            <uri>https://www.sunsetaction.top/about</uri>
+        </author>
+        <category label="靶机"/>
+        <category label="HackTheBox"/>
+        <category label="Linux靶机"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HackTheBox - Machine - Outbound]]></title>
         <id>https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Outbound</id>
         <link href="https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Outbound"/>
         <link rel="enclosure" href="https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Outbound/image.png" type="image/png"/>
@@ -65,7 +80,7 @@
         <category label="Below"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HackTheBox - Season8 - Mirage]]></title>
+        <title type="html"><![CDATA[HackTheBox - Machine - Mirage]]></title>
         <id>https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Mirage</id>
         <link href="https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Mirage"/>
         <link rel="enclosure" href="https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Mirage/image.png" type="image/png"/>
@@ -84,7 +99,7 @@
         <category label="ESC10"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HackTheBox - Season8 - Era]]></title>
+        <title type="html"><![CDATA[HackTheBox - Machine - Era]]></title>
         <id>https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Era</id>
         <link href="https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Era"/>
         <link rel="enclosure" href="https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Era/image.png" type="image/png"/>
@@ -103,7 +118,7 @@
         <category label="Hijack"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[HackTheBox - Season8 - Editor]]></title>
+        <title type="html"><![CDATA[HackTheBox - Machine - Editor]]></title>
         <id>https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Editor</id>
         <link href="https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Editor"/>
         <link rel="enclosure" href="https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Editor/image.png" type="image/png"/>
@@ -120,21 +135,6 @@
         <category label="ndsudo"/>
         <category label="xwiki"/>
         <category label="CVE-2024-24893"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HackTheBox - Season7-Titanic]]></title>
-        <id>https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-Titanic</id>
-        <link href="https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-Titanic"/>
-        <link rel="enclosure" href="https://www.sunsetaction.top/post-images/HackTheBoxSeason7-Titanic/image.png" type="image/png"/>
-        <updated>2025-04-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Season7 Titanic https://app.hackthebox.com/competitive/7/overview | esay | 漏洞有点难找，我觉得中等左右 前期踩点 子域名查询，发现dev，添加到hosts里面去 访问dev ，gitea服务 访问HTTP服务，是关于泰塔尼克...]]></summary>
-        <author>
-            <name>Sunset</name>
-            <uri>https://www.sunsetaction.top/about</uri>
-        </author>
-        <category label="靶机"/>
-        <category label="HackTheBox"/>
-        <category label="Linux靶机"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[HackTheBox - Machine -TheFrizz]]></title>
@@ -815,7 +815,7 @@
         <category label="Linux"/>
         <category label="MFA"/>
         <category label="ffuf"/>
-        <category label="Python"/>
+        <category label="python"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[HackTheBox - Machine - Code]]></title>

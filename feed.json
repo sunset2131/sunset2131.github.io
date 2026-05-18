@@ -32,7 +32,7 @@
             "id": "https://www.sunsetaction.top/2026/05/14/HackTheBoxSeason8 - Signed",
             "content_html": "Season8 Signed https://app.hackthebox.com/machines/Signed As is common in real life Windows penetration tests, you will start the Signed box with cred...",
             "url": "https://www.sunsetaction.top/2026/05/14/HackTheBoxSeason8 - Signed",
-            "title": "HackTheBox - Season9 - Signed",
+            "title": "HackTheBox - Machine - Signed",
             "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Signed/image.png",
             "date_modified": "2025-10-14T00:00:00.000Z",
             "author": {
@@ -48,10 +48,27 @@
             ]
         },
         {
+            "id": "https://www.sunsetaction.top/2026/05/132026/HackTheBoxSeason7-Titanic",
+            "content_html": "Season7 Titanic https://app.hackthebox.com/competitive/7/overview | esay | 漏洞有点难找，我觉得中等左右 前期踩点 子域名查询，发现dev，添加到hosts里面去 访问dev ，gitea服务 访问HTTP服务，是关于泰塔尼克...",
+            "url": "https://www.sunsetaction.top/2026/05/132026/HackTheBoxSeason7-Titanic",
+            "title": "HackTheBox - Machine -Titanic",
+            "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason7-Titanic/image.png",
+            "date_modified": "2025-04-04T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "HackTheBox",
+                "Linux靶机"
+            ]
+        },
+        {
             "id": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Outbound",
             "content_html": "Season8 Outbound https://app.hackthebox.com/machines/672 | Linux | Easy Machine Information：As is common in real life pentests, you will start the Out...",
             "url": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Outbound",
-            "title": "HackTheBox - Season8 - Outbound",
+            "title": "HackTheBox - Machine - Outbound",
             "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Outbound/image.png",
             "date_modified": "2025-07-13T00:00:00.000Z",
             "author": {
@@ -70,7 +87,7 @@
             "id": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Mirage",
             "content_html": "Season8 Mirage https://app.hackthebox.com/machines/Mirage | Windows | Hard Recon PortScan 枚举测试 SMB 匿名测试 RPC 匿名测试 NFS 枚举 发现 /MirageReports 将其挂载到本机上 里边是...",
             "url": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Mirage",
-            "title": "HackTheBox - Season8 - Mirage",
+            "title": "HackTheBox - Machine - Mirage",
             "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Mirage/image.png",
             "date_modified": "2025-07-22T00:00:00.000Z",
             "author": {
@@ -91,7 +108,7 @@
             "id": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Era",
             "content_html": "Season8 Era https://app.hackthebox.com/machines/Era | Linux | Medium Recon PortScan 枚举 FTP 匿名测试 HTTP 服务 主页中没发现什么信息，爆破一下子域名 访问 file.era.htb 只有登录页但是没找到注...",
             "url": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Era",
-            "title": "HackTheBox - Season8 - Era",
+            "title": "HackTheBox - Machine - Era",
             "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Era/image.png",
             "date_modified": "2025-07-29T00:00:00.000Z",
             "author": {
@@ -112,7 +129,7 @@
             "id": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Editor",
             "content_html": "Season8 Editor https://app.hackthebox.com/machines/Editor | Linux | Easy Recon PortScan 枚举测试 80 端口 8080 端口 CVE 2025 32429 ❌ CVE 2025 24893 再根据靶机上的版本 1...",
             "url": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Editor",
-            "title": "HackTheBox - Season8 - Editor",
+            "title": "HackTheBox - Machine - Editor",
             "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Editor/image.png",
             "date_modified": "2025-08-03T00:00:00.000Z",
             "author": {
@@ -127,23 +144,6 @@
                 "ndsudo",
                 "xwiki",
                 "CVE-2024-24893"
-            ]
-        },
-        {
-            "id": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-Titanic",
-            "content_html": "Season7 Titanic https://app.hackthebox.com/competitive/7/overview | esay | 漏洞有点难找，我觉得中等左右 前期踩点 子域名查询，发现dev，添加到hosts里面去 访问dev ，gitea服务 访问HTTP服务，是关于泰塔尼克...",
-            "url": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-Titanic",
-            "title": "HackTheBox - Season7-Titanic",
-            "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason7-Titanic/image.png",
-            "date_modified": "2025-04-04T00:00:00.000Z",
-            "author": {
-                "name": "Sunset",
-                "url": "https://www.sunsetaction.top/about"
-            },
-            "tags": [
-                "靶机",
-                "HackTheBox",
-                "Linux靶机"
             ]
         },
         {
@@ -902,7 +902,7 @@
                 "Linux",
                 "MFA",
                 "ffuf",
-                "Python"
+                "python"
             ]
         },
         {

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.sunsetaction.top</id>
     <title>Sunset Blog</title>
-    <updated>2026-02-21T16:04:23.183Z</updated>
+    <updated>2026-05-18T07:10:33.883Z</updated>
     <generator>Feed for Node.js</generator>
     <author>
         <name>Sunset</name>
@@ -14,6 +14,22 @@
     <logo>https://www.sunsetaction.top/images/logo.png</logo>
     <icon>https://www.sunsetaction.top/images/Logo.ico</icon>
     <rights>All rights reserved 2026, Sunset</rights>
+    <entry>
+        <title type="html"><![CDATA[群U靶机 - Meltdown2]]></title>
+        <id>https://www.sunsetaction.top/2026/05/17/群U靶机-Meltdown2</id>
+        <link href="https://www.sunsetaction.top/2026/05/17/群U靶机-Meltdown2"/>
+        <link rel="enclosure" href="https://www.sunsetaction.top/post-images/群U靶机-Meltdown2/image.png" type="image/png"/>
+        <updated>2026-05-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[群U靶机 Meltdown2 作者 kaada 枚举 端口探测 看端口是一台 windows 靶机 常规操作，先枚举 SMB 得到一份 txt 文件 得到 KagamineRin 用户的凭据 提权 之前看到主机开了 5985 端口，所以这里尝试直接使用 evil winrm 拿 shell 可以拿到...]]></summary>
+        <author>
+            <name>Sunset</name>
+            <uri>https://www.sunsetaction.top/about</uri>
+        </author>
+        <category label="靶机"/>
+        <category label="Windows"/>
+        <category label="Service"/>
+        <category label="smb"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sunshine + moonlight 息屏串流方案]]></title>
         <id>https://www.sunsetaction.top/2026/02/21/Sunshine + moonlight 息屏串流方案</id>
@@ -286,20 +302,6 @@
         <category label="TheHackersLabs"/>
         <category label="Linux"/>
         <category label="PWN"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[念念碎]]></title>
-        <id>https://www.sunsetaction.top/2025/10/26/念念碎</id>
-        <link href="https://www.sunsetaction.top/2025/10/26/念念碎"/>
-        <link rel="enclosure" href="https://www.sunsetaction.top/images/logo.png" type="image/png"/>
-        <updated>2025-10-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[xxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...]]></summary>
-        <author>
-            <name>Sunset</name>
-            <uri>https://www.sunsetaction.top/about</uri>
-        </author>
-        <category label="杂"/>
-        <category label="胡说八道"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[HackTheBox - Machine - Puppy]]></title>

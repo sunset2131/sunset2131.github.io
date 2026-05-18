@@ -4,7 +4,7 @@
         <title>Sunset Blog</title>
         <link>https://www.sunsetaction.top</link>
         <description>Sunset的个人博客，记录生活学习。</description>
-        <lastBuildDate>Mon, 18 May 2026 07:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 11:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>zh-CN</language>
@@ -25,6 +25,113 @@
             <category>Service</category>
             <category>smb</category>
             <enclosure url="https://www.sunsetaction.top/post-images/群U靶机-Meltdown2/image.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[HackTheBox - Season9 - Signed]]></title>
+            <link>https://www.sunsetaction.top/2026/05/14/HackTheBoxSeason8 - Signed</link>
+            <guid isPermaLink="false">https://www.sunsetaction.top/2026/05/14/HackTheBoxSeason8 - Signed</guid>
+            <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Season8 Signed https://app.hackthebox.com/machines/Signed As is common in real life Windows penetration tests, you will start the Signed box with cred...]]></description>
+            <category>靶机</category>
+            <category>HackTheBox</category>
+            <category>Windows</category>
+            <category>SilverTicket</category>
+            <category>MSSQL</category>
+            <enclosure url="https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Signed/image.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[HackTheBox - Season8 - Outbound]]></title>
+            <link>https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Outbound</link>
+            <guid isPermaLink="false">https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Outbound</guid>
+            <pubDate>Sun, 13 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Season8 Outbound https://app.hackthebox.com/machines/672 | Linux | Easy Machine Information：As is common in real life pentests, you will start the Out...]]></description>
+            <category>靶机</category>
+            <category>HackTheBox</category>
+            <category>Linux</category>
+            <category>RoundcubeMail</category>
+            <category>Below</category>
+            <enclosure url="https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Outbound/image.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[HackTheBox - Season8 - Mirage]]></title>
+            <link>https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Mirage</link>
+            <guid isPermaLink="false">https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Mirage</guid>
+            <pubDate>Tue, 22 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Season8 Mirage https://app.hackthebox.com/machines/Mirage | Windows | Hard Recon PortScan 枚举测试 SMB 匿名测试 RPC 匿名测试 NFS 枚举 发现 /MirageReports 将其挂载到本机上 里边是...]]></description>
+            <category>靶机</category>
+            <category>HackTheBox</category>
+            <category>Windows</category>
+            <category>Nats-server</category>
+            <category>Kerberoasting</category>
+            <category>BloodyAD</category>
+            <category>ESC10</category>
+            <enclosure url="https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Mirage/image.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[HackTheBox - Season8 - Era]]></title>
+            <link>https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Era</link>
+            <guid isPermaLink="false">https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Era</guid>
+            <pubDate>Tue, 29 Jul 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Season8 Era https://app.hackthebox.com/machines/Era | Linux | Medium Recon PortScan 枚举 FTP 匿名测试 HTTP 服务 主页中没发现什么信息，爆破一下子域名 访问 file.era.htb 只有登录页但是没找到注...]]></description>
+            <category>靶机</category>
+            <category>HackTheBox</category>
+            <category>IDOR</category>
+            <category>Code</category>
+            <category>PHP_Warrpers</category>
+            <category>php_ssh2</category>
+            <category>Hijack</category>
+            <enclosure url="https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Era/image.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[HackTheBox - Season8 - Editor]]></title>
+            <link>https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Editor</link>
+            <guid isPermaLink="false">https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Editor</guid>
+            <pubDate>Sun, 03 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Season8 Editor https://app.hackthebox.com/machines/Editor | Linux | Easy Recon PortScan 枚举测试 80 端口 8080 端口 CVE 2025 32429 ❌ CVE 2025 24893 再根据靶机上的版本 1...]]></description>
+            <category>靶机</category>
+            <category>HackTheBox</category>
+            <category>Linux</category>
+            <category>netdata</category>
+            <category>ndsudo</category>
+            <category>xwiki</category>
+            <category>CVE-2024-24893</category>
+            <enclosure url="https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Editor/image.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[HackTheBox - Season7-WhiteRabbit]]></title>
+            <link>https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-WhiteRabbit</link>
+            <guid isPermaLink="false">https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-WhiteRabbit</guid>
+            <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Season7 WhiteRabbit https://app.hackthebox.com/competitive/7/overview | Insane 前期踩点 将 whiterabbit.htb 写入 hosts 文件 访问 HTTP 服务，caddy 搭建的 web 再爆一下子域名，爆出来...]]></description>
+            <category>靶机</category>
+            <category>HackTheBox</category>
+            <category>Linux靶机</category>
+            <category>逆向分析</category>
+            <category>SQL注入</category>
+            <enclosure url="https://www.sunsetaction.top/post-images/HackTheBoxSeason7-WhiteRabbit/image.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[HackTheBox - Season7-Titanic]]></title>
+            <link>https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-Titanic</link>
+            <guid isPermaLink="false">https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-Titanic</guid>
+            <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Season7 Titanic https://app.hackthebox.com/competitive/7/overview | esay | 漏洞有点难找，我觉得中等左右 前期踩点 子域名查询，发现dev，添加到hosts里面去 访问dev ，gitea服务 访问HTTP服务，是关于泰塔尼克...]]></description>
+            <category>靶机</category>
+            <category>HackTheBox</category>
+            <category>Linux靶机</category>
+            <enclosure url="https://www.sunsetaction.top/post-images/HackTheBoxSeason7-Titanic/image.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[HackTheBox - Machine -TheFrizz]]></title>
+            <link>https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-TheFrizz</link>
+            <guid isPermaLink="false">https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-TheFrizz</guid>
+            <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Season7 TheFrizz https://app.hackthebox.com/machines/652 | medium | Windows靶机 前期踩点 进行nmap扫描 发现域名frizzdc.frizz.htb 添加到hosts 文件 漏洞扫描 先尝试SMB是否允许匿名用户 WEB ...]]></description>
+            <category>靶机</category>
+            <category>HackTheBox</category>
+            <category>域渗透</category>
+            <category>Windows靶机</category>
+            <enclosure url="https://www.sunsetaction.top/post-images/HackTheBoxSeason7-TheFrizz/image44.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Sunshine + moonlight 息屏串流方案]]></title>
@@ -1152,6 +1259,32 @@
             <category>Brute</category>
             <category>逻辑漏洞</category>
             <enclosure url="https://www.sunsetaction.top/post-images/VulnyxShadwich/image.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[HackTheBox - Machine - Expressway]]></title>
+            <link>https://www.sunsetaction.top/2025/05/13/HackTheBoxSeason9 - Expressway</link>
+            <guid isPermaLink="false">https://www.sunsetaction.top/2025/05/13/HackTheBoxSeason9 - Expressway</guid>
+            <pubDate>Sun, 21 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Season9 Expressway https://app.hackthebox.com/machines/736 Recon PortScan 不对劲 再把 UDP 给扫描了 Ike scan 通过 Ike scan 探测 IKE 服务器，有种 IPsec 秘钥协商的既视感 尝试握手，捕获这个哈...]]></description>
+            <category>靶机</category>
+            <category>HackTheBox</category>
+            <category>Linux</category>
+            <category>IKE</category>
+            <category>CVE-2025-32463</category>
+            <enclosure url="https://www.sunsetaction.top/post-images/HackTheBoxSeason9%20-%20Expressway/image.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[HackTheBox - Machine - Conversor]]></title>
+            <link>https://www.sunsetaction.top/2025/05/13/HackTheBoxSeason9 - Conversor</link>
+            <guid isPermaLink="false">https://www.sunsetaction.top/2025/05/13/HackTheBoxSeason9 - Conversor</guid>
+            <pubDate>Sun, 26 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Season9 Conversor https://app.hackthebox.com/machines/Conversor Recon PortScan 枚举 80 端口 随意注册一个用户进行登录，进入后台后，是一个文件转换点 点击下载模板可以下载一个 nmap.xslt 文件 这是一个 XSL...]]></description>
+            <category>靶机</category>
+            <category>HackTheBox</category>
+            <category>Linux</category>
+            <category>XSLT</category>
+            <category>Needrestart</category>
+            <enclosure url="https://www.sunsetaction.top/post-images/HackTheBoxSeason9%20-%20Conversor/image.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[HackMyVM - Disguise]]></title>

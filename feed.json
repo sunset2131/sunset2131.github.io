@@ -29,6 +29,161 @@
             ]
         },
         {
+            "id": "https://www.sunsetaction.top/2026/05/14/HackTheBoxSeason8 - Signed",
+            "content_html": "Season8 Signed https://app.hackthebox.com/machines/Signed As is common in real life Windows penetration tests, you will start the Signed box with cred...",
+            "url": "https://www.sunsetaction.top/2026/05/14/HackTheBoxSeason8 - Signed",
+            "title": "HackTheBox - Season9 - Signed",
+            "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Signed/image.png",
+            "date_modified": "2025-10-14T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "HackTheBox",
+                "Windows",
+                "SilverTicket",
+                "MSSQL"
+            ]
+        },
+        {
+            "id": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Outbound",
+            "content_html": "Season8 Outbound https://app.hackthebox.com/machines/672 | Linux | Easy Machine Information：As is common in real life pentests, you will start the Out...",
+            "url": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Outbound",
+            "title": "HackTheBox - Season8 - Outbound",
+            "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Outbound/image.png",
+            "date_modified": "2025-07-13T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "HackTheBox",
+                "Linux",
+                "RoundcubeMail",
+                "Below"
+            ]
+        },
+        {
+            "id": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Mirage",
+            "content_html": "Season8 Mirage https://app.hackthebox.com/machines/Mirage | Windows | Hard Recon PortScan 枚举测试 SMB 匿名测试 RPC 匿名测试 NFS 枚举 发现 /MirageReports 将其挂载到本机上 里边是...",
+            "url": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Mirage",
+            "title": "HackTheBox - Season8 - Mirage",
+            "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Mirage/image.png",
+            "date_modified": "2025-07-22T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "HackTheBox",
+                "Windows",
+                "Nats-server",
+                "Kerberoasting",
+                "BloodyAD",
+                "ESC10"
+            ]
+        },
+        {
+            "id": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Era",
+            "content_html": "Season8 Era https://app.hackthebox.com/machines/Era | Linux | Medium Recon PortScan 枚举 FTP 匿名测试 HTTP 服务 主页中没发现什么信息，爆破一下子域名 访问 file.era.htb 只有登录页但是没找到注...",
+            "url": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Era",
+            "title": "HackTheBox - Season8 - Era",
+            "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Era/image.png",
+            "date_modified": "2025-07-29T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "HackTheBox",
+                "IDOR",
+                "Code",
+                "PHP_Warrpers",
+                "php_ssh2",
+                "Hijack"
+            ]
+        },
+        {
+            "id": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Editor",
+            "content_html": "Season8 Editor https://app.hackthebox.com/machines/Editor | Linux | Easy Recon PortScan 枚举测试 80 端口 8080 端口 CVE 2025 32429 ❌ CVE 2025 24893 再根据靶机上的版本 1...",
+            "url": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason8 - Editor",
+            "title": "HackTheBox - Season8 - Editor",
+            "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason8%20-%20Editor/image.png",
+            "date_modified": "2025-08-03T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "HackTheBox",
+                "Linux",
+                "netdata",
+                "ndsudo",
+                "xwiki",
+                "CVE-2024-24893"
+            ]
+        },
+        {
+            "id": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-WhiteRabbit",
+            "content_html": "Season7 WhiteRabbit https://app.hackthebox.com/competitive/7/overview | Insane 前期踩点 将 whiterabbit.htb 写入 hosts 文件 访问 HTTP 服务，caddy 搭建的 web 再爆一下子域名，爆出来...",
+            "url": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-WhiteRabbit",
+            "title": "HackTheBox - Season7-WhiteRabbit",
+            "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason7-WhiteRabbit/image.png",
+            "date_modified": "2025-04-07T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "HackTheBox",
+                "Linux靶机",
+                "逆向分析",
+                "SQL注入"
+            ]
+        },
+        {
+            "id": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-Titanic",
+            "content_html": "Season7 Titanic https://app.hackthebox.com/competitive/7/overview | esay | 漏洞有点难找，我觉得中等左右 前期踩点 子域名查询，发现dev，添加到hosts里面去 访问dev ，gitea服务 访问HTTP服务，是关于泰塔尼克...",
+            "url": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-Titanic",
+            "title": "HackTheBox - Season7-Titanic",
+            "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason7-Titanic/image.png",
+            "date_modified": "2025-04-04T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "HackTheBox",
+                "Linux靶机"
+            ]
+        },
+        {
+            "id": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-TheFrizz",
+            "content_html": "Season7 TheFrizz https://app.hackthebox.com/machines/652 | medium | Windows靶机 前期踩点 进行nmap扫描 发现域名frizzdc.frizz.htb 添加到hosts 文件 漏洞扫描 先尝试SMB是否允许匿名用户 WEB ...",
+            "url": "https://www.sunsetaction.top/2026/05/13/HackTheBoxSeason7-TheFrizz",
+            "title": "HackTheBox - Machine -TheFrizz",
+            "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason7-TheFrizz/image44.png",
+            "date_modified": "2025-04-04T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "HackTheBox",
+                "域渗透",
+                "Windows靶机"
+            ]
+        },
+        {
             "id": "https://www.sunsetaction.top/2026/02/21/Sunshine + moonlight 息屏串流方案",
             "content_html": "Sunshine + moonlight 息屏串流方案 前置 最近想玩的 Gal 有点多，但是安卓上的模拟器并没有完全够用，想起来之前有使用过本地串流，所以想着是否能使用串流来玩 Gal。 这样为什么不直接串流玩呢？因为串流的时候和显示器是同步的，也就是你手机串流的时候显示器屏幕也是跟着动，那你在床...",
             "url": "https://www.sunsetaction.top/2026/02/21/Sunshine + moonlight 息屏串流方案",
@@ -1651,6 +1806,44 @@
                 "Linux靶机",
                 "Brute",
                 "逻辑漏洞"
+            ]
+        },
+        {
+            "id": "https://www.sunsetaction.top/2025/05/13/HackTheBoxSeason9 - Expressway",
+            "content_html": "Season9 Expressway https://app.hackthebox.com/machines/736 Recon PortScan 不对劲 再把 UDP 给扫描了 Ike scan 通过 Ike scan 探测 IKE 服务器，有种 IPsec 秘钥协商的既视感 尝试握手，捕获这个哈...",
+            "url": "https://www.sunsetaction.top/2025/05/13/HackTheBoxSeason9 - Expressway",
+            "title": "HackTheBox - Machine - Expressway",
+            "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason9%20-%20Expressway/image.png",
+            "date_modified": "2025-09-21T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "HackTheBox",
+                "Linux",
+                "IKE",
+                "CVE-2025-32463"
+            ]
+        },
+        {
+            "id": "https://www.sunsetaction.top/2025/05/13/HackTheBoxSeason9 - Conversor",
+            "content_html": "Season9 Conversor https://app.hackthebox.com/machines/Conversor Recon PortScan 枚举 80 端口 随意注册一个用户进行登录，进入后台后，是一个文件转换点 点击下载模板可以下载一个 nmap.xslt 文件 这是一个 XSL...",
+            "url": "https://www.sunsetaction.top/2025/05/13/HackTheBoxSeason9 - Conversor",
+            "title": "HackTheBox - Machine - Conversor",
+            "image": "https://www.sunsetaction.top/post-images/HackTheBoxSeason9%20-%20Conversor/image.png",
+            "date_modified": "2025-10-26T00:00:00.000Z",
+            "author": {
+                "name": "Sunset",
+                "url": "https://www.sunsetaction.top/about"
+            },
+            "tags": [
+                "靶机",
+                "HackTheBox",
+                "Linux",
+                "XSLT",
+                "Needrestart"
             ]
         },
         {

@@ -25,7 +25,7 @@
                 "靶机",
                 "Windows",
                 "Service",
-                "smb"
+                "SMB"
             ]
         },
         {
@@ -215,7 +215,7 @@
             "tags": [
                 "靶机",
                 "Linux",
-                "Fuzz",
+                "FUZZ",
                 "ASCII"
             ]
         },
@@ -289,7 +289,7 @@
                 "靶机",
                 "群U靶机",
                 "Linux",
-                "sudo"
+                "SUDO"
             ]
         },
         {
@@ -566,7 +566,7 @@
                 "TheHackerLabs",
                 "Linux",
                 "LFI",
-                "Fuzz",
+                "FUZZ",
                 "Gdbserver"
             ]
         },
@@ -902,7 +902,7 @@
                 "Linux",
                 "MFA",
                 "ffuf",
-                "python"
+                "Python"
             ]
         },
         {

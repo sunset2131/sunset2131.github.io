@@ -4,7 +4,7 @@
         <title>Sunset Blog</title>
         <link>https://www.sunsetaction.top</link>
         <description>Sunset的个人博客，记录生活学习。</description>
-        <lastBuildDate>Mon, 18 May 2026 12:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jun 2026 16:00:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Feed for Node.js</generator>
         <language>zh-CN</language>
@@ -23,7 +23,7 @@
             <category>靶机</category>
             <category>Windows</category>
             <category>Service</category>
-            <category>smb</category>
+            <category>SMB</category>
             <enclosure url="https://www.sunsetaction.top/post-images/群U靶机-Meltdown2/image.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -153,7 +153,7 @@
             <description><![CDATA[victorique Recon PortScan 端口扫描 Fuzz 访问 HTTP 服务，提示要通过域名访问，添加域名到 hosts 文件 能发现存在登录框，但是没有任何账户密码，所以暂时不进行爆破 进行子域名爆破，得到子域名 gifts 访问后得到一组凭据 ookami:GoS1Ck 尝试在登...]]></description>
             <category>靶机</category>
             <category>Linux</category>
-            <category>Fuzz</category>
+            <category>FUZZ</category>
             <category>ASCII</category>
             <enclosure url="https://www.sunsetaction.top/post-images/Machinevictorique/image.png" length="0" type="image/png"/>
         </item>
@@ -203,7 +203,7 @@
             <category>靶机</category>
             <category>群U靶机</category>
             <category>Linux</category>
-            <category>sudo</category>
+            <category>SUDO</category>
             <enclosure url="https://www.sunsetaction.top/post-images/群U靶机SudoHome_sunset/image.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -396,7 +396,7 @@
             <category>TheHackerLabs</category>
             <category>Linux</category>
             <category>LFI</category>
-            <category>Fuzz</category>
+            <category>FUZZ</category>
             <category>Gdbserver</category>
             <enclosure url="https://www.sunsetaction.top/post-images/TheHackersLabsLavaShop/image.png" length="0" type="image/png"/>
         </item>
@@ -630,7 +630,7 @@
             <category>Linux</category>
             <category>MFA</category>
             <category>ffuf</category>
-            <category>python</category>
+            <category>Python</category>
             <enclosure url="https://www.sunsetaction.top/post-images/TheHackersLabsShadowGate/image.png" length="0" type="image/png"/>
         </item>
         <item>

@@ -3,7 +3,7 @@
     "title": "Sunset Blog",
     "home_page_url": "https://www.sunsetaction.top",
     "feed_url": "https://www.sunsetaction.top/feed.json",
-    "description": "Sunset的个人博客，记录生活学习。",
+    "description": "Sunset的个人博客，记录生活学习点滴。分享网络安全、渗透测试、CTF writeup、技术文章等内容。",
     "icon": "https://www.sunsetaction.top/images/logo.png",
     "author": {
         "name": "Sunset",

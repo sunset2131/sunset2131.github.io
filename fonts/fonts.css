@@ -1,14 +1,25 @@
 /*
- * 自托管字体 — 本地 TTF 文件，零外部依赖
+ * 自托管字体 — 全部本地 TTF，零外部 CDN 依赖
  *
- * IBM Plex Mono  → 代码块字体（Google Fonts → 本地）
- * Meslo LG       → 引用块字体（jsDelivr  → 本地）
- * Fira Code      → 备用代码字体（Google Fonts → 本地）
+ * 所有字体均设置 font-display: swap
+ * 加载期间浏览器立即使用系统默认字体渲染，无白屏
+ * 字体下载完成后平滑切换
  *
- * LXGW WenKai 保留走 jsDelivr CDN（19MB TTF 不适合自托管）
- *
- * 所有字体均设置 font-display: swap，确保加载期间文字立即可见
+ * 字体列表：
+ *   LXGW WenKai   → 正文
+ *   IBM Plex Mono  → 代码块
+ *   meslo          → 引用块
+ *   Fira Code      → 备用代码字体
  */
+
+/* ─── LXGW WenKai (正文) ─── */
+@font-face {
+  font-family: 'LXGW WenKai';
+  src: url('/fonts/LXGWWenKai-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
 
 /* ─── IBM Plex Mono (代码块) ─── */
 @font-face {

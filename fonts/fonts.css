@@ -1,21 +1,22 @@
 /*
- * 自托管字体 — 全部本地 TTF，零外部 CDN 依赖
+ * 自托管字体 — 全部本地文件，零外部 CDN 依赖
  *
  * 所有字体均设置 font-display: swap
  * 加载期间浏览器立即使用系统默认字体渲染，无白屏
  * 字体下载完成后平滑切换
  *
  * 字体列表：
- *   LXGW WenKai   → 正文
+ *   LXGW WenKai   → 正文 (WOFF2 子集化，由 scripts/subset-font.js 自动生成)
  *   IBM Plex Mono  → 代码块
  *   meslo          → 引用块
  *   Fira Code      → 备用代码字体
  */
 
-/* ─── LXGW WenKai (正文) ─── */
+/* ─── LXGW WenKai (正文) — 子集化 WOFF2 + TTF 回退 ─── */
 @font-face {
   font-family: 'LXGW WenKai';
-  src: url('/fonts/LXGWWenKai-Regular.ttf') format('truetype');
+  src: url('/fonts/lxgw-blog.woff2') format('woff2'),
+       url('/fonts/LXGWWenKai-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
